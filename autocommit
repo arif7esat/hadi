@@ -1,0 +1,15 @@
+#!/bin/bash
+
+# AutoCommit Pro Launcher
+# This script launches AutoCommit Pro from the current directory
+
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+HIDDEN_DIR="$SCRIPT_DIR/.autocommit-pro"
+
+if [ ! -d "$HIDDEN_DIR" ]; then
+    echo "❌ Error: AutoCommit Pro not found. Please run install.sh first."
+    exit 1
+fi
+
+# Run from current directory, not from hidden directory
+python "$HIDDEN_DIR/main.py" "$@"

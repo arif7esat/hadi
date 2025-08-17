@@ -1,0 +1,694 @@
+[2025-08-17 21:39:27.483] ERROR    [MainThread] logger:error:380 - Failed to create commit
+Exception: Traceback (most recent call last):
+  File "/Users/arif/Desktop/Bakalimm/Auto-Push-And-AI-Commit-Mesaj/.autocommit-pro/auto_git_manager.py", line 142, in commit
+    if not self.repo.index.diff("HEAD"):
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/index/base.py", line 1517, in diff
+    other = self.repo.rev_parse(other)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py", line 415, in rev_parse
+    obj = name_to_object(repo, rev)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py", line 202, in name_to_object
+    raise BadName(name)
+gitdb.exc.BadName: Ref 'HEAD' did not resolve to an object
+
+[2025-08-17 21:39:33.484] ERROR    [ThreadPoolExecutor-0_0] logger:error:380 - Failed to create commit
+Exception: Traceback (most recent call last):
+  File "/Users/arif/Desktop/Bakalimm/Auto-Push-And-AI-Commit-Mesaj/.autocommit-pro/auto_git_manager.py", line 142, in commit
+    if not self.repo.index.diff("HEAD"):
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/index/base.py", line 1517, in diff
+    other = self.repo.rev_parse(other)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py", line 415, in rev_parse
+    obj = name_to_object(repo, rev)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py", line 202, in name_to_object
+    raise BadName(name)
+gitdb.exc.BadName: Ref 'HEAD' did not resolve to an object
+
+[2025-08-17 21:39:33.493] ERROR    [ThreadPoolExecutor-0_0] logger:error:380 - Auto-commit failed: Commit failed: Ref 'HEAD' did not resolve to an object
+[2025-08-17 21:40:32.428] ERROR    [MainThread] logger:error:380 - Failed to create commit
+Exception: Traceback (most recent call last):
+  File "/Users/arif/Desktop/Bakalimm/Auto-Push-And-AI-Commit-Mesaj/.autocommit-pro/auto_git_manager.py", line 142, in commit
+    if not self.repo.index.diff("HEAD"):
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/index/base.py", line 1517, in diff
+    other = self.repo.rev_parse(other)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py", line 415, in rev_parse
+    obj = name_to_object(repo, rev)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py", line 202, in name_to_object
+    raise BadName(name)
+gitdb.exc.BadName: Ref 'HEAD' did not resolve to an object
+
+[2025-08-17 21:40:32.438] ERROR    [MainThread] logger:error:380 - Auto-commit failed: Commit failed: Ref 'HEAD' did not resolve to an object
+[2025-08-17 21:45:49.461] ERROR    [MainThread] logger:error:380 - Failed to push to remote
+Exception: Traceback (most recent call last):
+  File "/Users/arif/Desktop/Bakalimm/Auto-Push-And-AI-Commit-Mesaj/.autocommit-pro/auto_git_manager.py", line 169, in push
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/base.py", line 1054, in active_branch
+    return self.head.reference
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/refs/symbolic.py", line 506, in reference
+    return self._get_reference()
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/refs/symbolic.py", line 416, in _get_reference
+    sha, target_ref_path = self._get_ref_info(self.repo, self.path)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/refs/symbolic.py", line 277, in _get_ref_info
+    return cls._get_ref_info_helper(repo, ref_path)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/refs/symbolic.py", line 256, in _get_ref_info_helper
+    raise ValueError("Reference at %r does not exist" % ref_path)
+ValueError: Reference at 'HEAD' does not exist
+
+[2025-08-17 21:49:52.304] ERROR    [MainThread] logger:error:380 - Failed to create commit
+Exception: Traceback (most recent call last):
+  File "/Users/arif/Desktop/auto_commit_programs/Bakalimm/.autocommit-pro/auto_git_manager.py", line 142, in commit
+    if not self.repo.index.diff("HEAD"):
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/index/base.py", line 1517, in diff
+    other = self.repo.rev_parse(other)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py", line 415, in rev_parse
+    obj = name_to_object(repo, rev)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py", line 202, in name_to_object
+    raise BadName(name)
+gitdb.exc.BadName: Ref 'HEAD' did not resolve to an object
+
+[2025-08-17 21:52:07.669] ERROR    [MainThread] logger:error:380 - Failed to create commit
+Exception: Traceback (most recent call last):
+  File "/Users/arif/Desktop/auto_commit_programs/Bakalimm/.autocommit-pro/auto_git_manager.py", line 142, in commit
+    if not self.repo.index.diff("HEAD"):
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/index/base.py", line 1517, in diff
+    other = self.repo.rev_parse(other)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py", line 415, in rev_parse
+    obj = name_to_object(repo, rev)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py", line 202, in name_to_object
+    raise BadName(name)
+gitdb.exc.BadName: Ref 'HEAD' did not resolve to an object
+
+[2025-08-17 22:22:03.833] ERROR    [MainThread] logger:error:380 - Failed to get repository status
+Exception: Traceback (most recent call last):
+  File "/Users/arif/Desktop/auto_commit_programs/Bakalimm/.autocommit-pro/auto_git_manager.py", line 85, in get_status
+    'staged_files': [item.a_path for item in self.repo.index.diff("HEAD")],
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/index/base.py", line 1517, in diff
+    other = self.repo.rev_parse(other)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py", line 415, in rev_parse
+    obj = name_to_object(repo, rev)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py", line 205, in name_to_object
+    return Object.new_from_sha(repo, hex_to_bin(hexsha))
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/objects/base.py", line 149, in new_from_sha
+    oinfo = repo.odb.info(sha1)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/db.py", line 41, in info
+    hexsha, typename, size = self._git.get_object_header(bin_to_hex(binsha))
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1696, in get_object_header
+    return self.__get_object_header(cmd, ref)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1679, in __get_object_header
+    cmd.stdin.flush()
+BrokenPipeError: [Errno 32] Broken pipe
+
+[2025-08-17 22:26:09.825] ERROR    [MainThread] logger:error:380 - Failed to add files to staging
+Exception: Traceback (most recent call last):
+  File "/Users/arif/Desktop/auto_commit_programs/Bakalimm/.autocommit-pro/auto_git_manager.py", line 120, in add_files
+    self.repo.git.add(A=True)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1003, in <lambda>
+    return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1616, in _call_process
+    return self.execute(call, **exec_kwargs)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1406, in execute
+    raise GitCommandError(redacted_command, status, stderr_value, stdout_value)
+git.exc.GitCommandError: Cmd('git') failed due to: exit code(128)
+  cmdline: git add -A
+  stderr: 'error: '.autocommit-pro/' does not have a commit checked out
+fatal: adding files failed'
+
+[2025-08-17 22:26:22.563] ERROR    [MainThread] logger:error:380 - Failed to add files to staging
+Exception: Traceback (most recent call last):
+  File "/Users/arif/Desktop/auto_commit_programs/Bakalimm/.autocommit-pro/auto_git_manager.py", line 120, in add_files
+    self.repo.git.add(A=True)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1003, in <lambda>
+    return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1616, in _call_process
+    return self.execute(call, **exec_kwargs)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1406, in execute
+    raise GitCommandError(redacted_command, status, stderr_value, stdout_value)
+git.exc.GitCommandError: Cmd('git') failed due to: exit code(128)
+  cmdline: git add -A
+  stderr: 'error: '.autocommit-pro/' does not have a commit checked out
+fatal: adding files failed'
+
+[2025-08-17 22:35:02.501] ERROR    [MainThread] logger:error:380 - Failed to add files to staging
+Exception: Traceback (most recent call last):
+  File "/Users/arif/Desktop/auto_commit_programs/Bakalimm/.autocommit-pro/auto_git_manager.py", line 120, in add_files
+    self.repo.git.add(A=True)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1003, in <lambda>
+    return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1616, in _call_process
+    return self.execute(call, **exec_kwargs)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1406, in execute
+    raise GitCommandError(redacted_command, status, stderr_value, stdout_value)
+git.exc.GitCommandError: Cmd('git') failed due to: exit code(128)
+  cmdline: git add -A
+  stderr: 'error: '.autocommit-pro/' does not have a commit checked out
+fatal: adding files failed'
+
+[2025-08-17 22:40:47.992] CRITICAL [MainThread] logger:critical:386 - Failed to start AutoCommit Pro
+Exception: Traceback (most recent call last):
+  File "/Users/arif/Desktop/auto_commit_programs/Bakalimm/.autocommit-pro/main.py", line 332, in start
+    self.manager.file_monitor.start()
+AttributeError: 'FileMonitor' object has no attribute 'start'. Did you mean: 'stats'?
+
+[2025-08-17 22:41:31.712] CRITICAL [MainThread] logger:critical:386 - Failed to start AutoCommit Pro
+Exception: Traceback (most recent call last):
+  File "/Users/arif/Desktop/auto_commit_programs/Bakalimm/.autocommit-pro/main.py", line 332, in start
+    self.manager.file_monitor.start()
+AttributeError: 'FileMonitor' object has no attribute 'start'. Did you mean: 'stats'?
+
+[2025-08-17 22:42:41.605] CRITICAL [MainThread] logger:critical:386 - Failed to start AutoGitManager
+Exception: Traceback (most recent call last):
+  File "/Users/arif/Desktop/auto_commit_programs/Bakalimm/.autocommit-pro/auto_git_manager.py", line 443, in start
+    self.file_monitor.start_monitoring()
+  File "/Users/arif/Desktop/auto_commit_programs/Bakalimm/.autocommit-pro/file_monitor.py", line 277, in start_monitoring
+    self.observer.start()
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/watchdog/observers/api.py", line 264, in start
+    emitter.start()
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/watchdog/utils/__init__.py", line 76, in start
+    threading.Thread.start(self)
+  File "/Users/arif/anaconda3/lib/python3.10/threading.py", line 930, in start
+    raise RuntimeError("threads can only be started once")
+RuntimeError: threads can only be started once
+
+[2025-08-17 22:42:41.608] CRITICAL [MainThread] logger:critical:386 - Failed to start AutoCommit Pro
+Exception: Traceback (most recent call last):
+  File "/Users/arif/Desktop/auto_commit_programs/Bakalimm/.autocommit-pro/main.py", line 334, in start
+    self.manager.start()
+  File "/Users/arif/Desktop/auto_commit_programs/Bakalimm/.autocommit-pro/auto_git_manager.py", line 443, in start
+    self.file_monitor.start_monitoring()
+  File "/Users/arif/Desktop/auto_commit_programs/Bakalimm/.autocommit-pro/file_monitor.py", line 277, in start_monitoring
+    self.observer.start()
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/watchdog/observers/api.py", line 264, in start
+    emitter.start()
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/watchdog/utils/__init__.py", line 76, in start
+    threading.Thread.start(self)
+  File "/Users/arif/anaconda3/lib/python3.10/threading.py", line 930, in start
+    raise RuntimeError("threads can only be started once")
+RuntimeError: threads can only be started once
+
+[2025-08-17 23:10:07.324] ERROR    [ThreadPoolExecutor-0_0] logger:error:380 - Failed to add files to staging
+Exception: Traceback (most recent call last):
+  File "/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py", line 120, in add_files
+    self.repo.git.add(A=True)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1003, in <lambda>
+    return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1616, in _call_process
+    return self.execute(call, **exec_kwargs)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1406, in execute
+    raise GitCommandError(redacted_command, status, stderr_value, stdout_value)
+git.exc.GitCommandError: Cmd('git') failed due to: exit code(128)
+  cmdline: git add -A
+  stderr: 'error: '.autocommit-pro/' does not have a commit checked out
+fatal: adding files failed'
+
+[2025-08-17 23:10:07.333] ERROR    [ThreadPoolExecutor-0_0] logger:error:380 - Auto-commit failed: Failed to add files: Cmd('git') failed due to: exit code(128)
+  cmdline: git add -A
+  stderr: 'error: '.autocommit-pro/' does not have a commit checked out
+fatal: adding files failed'
+[2025-08-17 23:10:12.547] ERROR    [ThreadPoolExecutor-0_0] logger:error:380 - Failed to add files to staging
+Exception: Traceback (most recent call last):
+  File "/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py", line 120, in add_files
+    self.repo.git.add(A=True)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1003, in <lambda>
+    return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1616, in _call_process
+    return self.execute(call, **exec_kwargs)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1406, in execute
+    raise GitCommandError(redacted_command, status, stderr_value, stdout_value)
+git.exc.GitCommandError: Cmd('git') failed due to: exit code(128)
+  cmdline: git add -A
+  stderr: 'error: '.autocommit-pro/' does not have a commit checked out
+fatal: adding files failed'
+
+[2025-08-17 23:10:12.556] ERROR    [ThreadPoolExecutor-0_0] logger:error:380 - Auto-commit failed: Failed to add files: Cmd('git') failed due to: exit code(128)
+  cmdline: git add -A
+  stderr: 'error: '.autocommit-pro/' does not have a commit checked out
+fatal: adding files failed'
+[2025-08-17 23:10:17.554] ERROR    [ThreadPoolExecutor-0_0] logger:error:380 - Failed to add files to staging
+Exception: Traceback (most recent call last):
+  File "/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py", line 120, in add_files
+    self.repo.git.add(A=True)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1003, in <lambda>
+    return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1616, in _call_process
+    return self.execute(call, **exec_kwargs)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1406, in execute
+    raise GitCommandError(redacted_command, status, stderr_value, stdout_value)
+git.exc.GitCommandError: Cmd('git') failed due to: exit code(128)
+  cmdline: git add -A
+  stderr: 'error: '.autocommit-pro/' does not have a commit checked out
+fatal: adding files failed'
+
+[2025-08-17 23:10:17.562] ERROR    [ThreadPoolExecutor-0_0] logger:error:380 - Auto-commit failed: Failed to add files: Cmd('git') failed due to: exit code(128)
+  cmdline: git add -A
+  stderr: 'error: '.autocommit-pro/' does not have a commit checked out
+fatal: adding files failed'
+[2025-08-17 23:10:22.892] ERROR    [ThreadPoolExecutor-0_0] logger:error:380 - Failed to add files to staging
+Exception: Traceback (most recent call last):
+  File "/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py", line 120, in add_files
+    self.repo.git.add(A=True)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1003, in <lambda>
+    return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1616, in _call_process
+    return self.execute(call, **exec_kwargs)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1406, in execute
+    raise GitCommandError(redacted_command, status, stderr_value, stdout_value)
+git.exc.GitCommandError: Cmd('git') failed due to: exit code(128)
+  cmdline: git add -A
+  stderr: 'error: '.autocommit-pro/' does not have a commit checked out
+fatal: adding files failed'
+
+[2025-08-17 23:10:22.904] ERROR    [ThreadPoolExecutor-0_0] logger:error:380 - Auto-commit failed: Failed to add files: Cmd('git') failed due to: exit code(128)
+  cmdline: git add -A
+  stderr: 'error: '.autocommit-pro/' does not have a commit checked out
+fatal: adding files failed'
+[2025-08-17 23:10:27.607] ERROR    [ThreadPoolExecutor-0_0] logger:error:380 - Failed to add files to staging
+Exception: Traceback (most recent call last):
+  File "/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py", line 120, in add_files
+    self.repo.git.add(A=True)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1003, in <lambda>
+    return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1616, in _call_process
+    return self.execute(call, **exec_kwargs)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1406, in execute
+    raise GitCommandError(redacted_command, status, stderr_value, stdout_value)
+git.exc.GitCommandError: Cmd('git') failed due to: exit code(128)
+  cmdline: git add -A
+  stderr: 'error: '.autocommit-pro/' does not have a commit checked out
+fatal: adding files failed'
+
+[2025-08-17 23:10:27.619] ERROR    [ThreadPoolExecutor-0_0] logger:error:380 - Auto-commit failed: Failed to add files: Cmd('git') failed due to: exit code(128)
+  cmdline: git add -A
+  stderr: 'error: '.autocommit-pro/' does not have a commit checked out
+fatal: adding files failed'
+[2025-08-17 23:10:36.739] ERROR    [ThreadPoolExecutor-0_0] logger:error:380 - Failed to add files to staging
+Exception: Traceback (most recent call last):
+  File "/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py", line 120, in add_files
+    self.repo.git.add(A=True)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1003, in <lambda>
+    return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1616, in _call_process
+    return self.execute(call, **exec_kwargs)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1406, in execute
+    raise GitCommandError(redacted_command, status, stderr_value, stdout_value)
+git.exc.GitCommandError: Cmd('git') failed due to: exit code(128)
+  cmdline: git add -A
+  stderr: 'error: '.autocommit-pro/' does not have a commit checked out
+fatal: adding files failed'
+
+[2025-08-17 23:10:36.751] ERROR    [ThreadPoolExecutor-0_0] logger:error:380 - Auto-commit failed: Failed to add files: Cmd('git') failed due to: exit code(128)
+  cmdline: git add -A
+  stderr: 'error: '.autocommit-pro/' does not have a commit checked out
+fatal: adding files failed'
+[2025-08-17 23:10:50.641] ERROR    [MainThread] logger:error:380 - Failed to create commit
+Exception: Traceback (most recent call last):
+  File "/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py", line 142, in commit
+    if not self.repo.index.diff("HEAD"):
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/index/base.py", line 1517, in diff
+    other = self.repo.rev_parse(other)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py", line 415, in rev_parse
+    obj = name_to_object(repo, rev)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py", line 205, in name_to_object
+    return Object.new_from_sha(repo, hex_to_bin(hexsha))
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/objects/base.py", line 149, in new_from_sha
+    oinfo = repo.odb.info(sha1)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/db.py", line 41, in info
+    hexsha, typename, size = self._git.get_object_header(bin_to_hex(binsha))
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1696, in get_object_header
+    return self.__get_object_header(cmd, ref)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1679, in __get_object_header
+    cmd.stdin.flush()
+BrokenPipeError: [Errno 32] Broken pipe
+
+[2025-08-17 23:10:50.653] ERROR    [MainThread] logger:error:380 - Auto-commit failed: Commit failed: [Errno 32] Broken pipe
+[2025-08-17 23:10:50.746] ERROR    [MainThread] logger:error:380 - Failed to get repository status
+Exception: Traceback (most recent call last):
+  File "/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py", line 85, in get_status
+    'staged_files': [item.a_path for item in self.repo.index.diff("HEAD")],
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/index/base.py", line 1517, in diff
+    other = self.repo.rev_parse(other)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py", line 415, in rev_parse
+    obj = name_to_object(repo, rev)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py", line 205, in name_to_object
+    return Object.new_from_sha(repo, hex_to_bin(hexsha))
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/objects/base.py", line 149, in new_from_sha
+    oinfo = repo.odb.info(sha1)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/db.py", line 41, in info
+    hexsha, typename, size = self._git.get_object_header(bin_to_hex(binsha))
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1696, in get_object_header
+    return self.__get_object_header(cmd, ref)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1679, in __get_object_header
+    cmd.stdin.flush()
+BrokenPipeError: [Errno 32] Broken pipe
+
+[2025-08-17 23:11:36.148] ERROR    [ThreadPoolExecutor-0_0] logger:error:380 - Failed to add files to staging
+Exception: Traceback (most recent call last):
+  File "/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py", line 120, in add_files
+    self.repo.git.add(A=True)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1003, in <lambda>
+    return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1616, in _call_process
+    return self.execute(call, **exec_kwargs)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1406, in execute
+    raise GitCommandError(redacted_command, status, stderr_value, stdout_value)
+git.exc.GitCommandError: Cmd('git') failed due to: exit code(128)
+  cmdline: git add -A
+  stderr: 'error: '.autocommit-pro/' does not have a commit checked out
+fatal: adding files failed'
+
+[2025-08-17 23:11:36.161] ERROR    [ThreadPoolExecutor-0_0] logger:error:380 - Auto-commit failed: Failed to add files: Cmd('git') failed due to: exit code(128)
+  cmdline: git add -A
+  stderr: 'error: '.autocommit-pro/' does not have a commit checked out
+fatal: adding files failed'
+[2025-08-17 23:11:42.206] ERROR    [ThreadPoolExecutor-0_0] logger:error:380 - Failed to add files to staging
+Exception: Traceback (most recent call last):
+  File "/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py", line 120, in add_files
+    self.repo.git.add(A=True)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1003, in <lambda>
+    return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1616, in _call_process
+    return self.execute(call, **exec_kwargs)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1406, in execute
+    raise GitCommandError(redacted_command, status, stderr_value, stdout_value)
+git.exc.GitCommandError: Cmd('git') failed due to: exit code(128)
+  cmdline: git add -A
+  stderr: 'error: '.autocommit-pro/' does not have a commit checked out
+fatal: adding files failed'
+
+[2025-08-17 23:11:42.215] ERROR    [ThreadPoolExecutor-0_0] logger:error:380 - Auto-commit failed: Failed to add files: Cmd('git') failed due to: exit code(128)
+  cmdline: git add -A
+  stderr: 'error: '.autocommit-pro/' does not have a commit checked out
+fatal: adding files failed'
+[2025-08-17 23:12:02.627] ERROR    [ThreadPoolExecutor-0_0] logger:error:380 - Failed to add files to staging
+Exception: Traceback (most recent call last):
+  File "/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py", line 120, in add_files
+    self.repo.git.add(A=True)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1003, in <lambda>
+    return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1616, in _call_process
+    return self.execute(call, **exec_kwargs)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1406, in execute
+    raise GitCommandError(redacted_command, status, stderr_value, stdout_value)
+git.exc.GitCommandError: Cmd('git') failed due to: exit code(128)
+  cmdline: git add -A
+  stderr: 'error: '.autocommit-pro/' does not have a commit checked out
+fatal: adding files failed'
+
+[2025-08-17 23:12:02.636] ERROR    [ThreadPoolExecutor-0_0] logger:error:380 - Auto-commit failed: Failed to add files: Cmd('git') failed due to: exit code(128)
+  cmdline: git add -A
+  stderr: 'error: '.autocommit-pro/' does not have a commit checked out
+fatal: adding files failed'
+[2025-08-17 23:12:04.018] ERROR    [Thread-14 (scheduler_loop)] logger:error:380 - Failed to get repository status
+Exception: Traceback (most recent call last):
+  File "/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py", line 85, in get_status
+    'staged_files': [item.a_path for item in self.repo.index.diff("HEAD")],
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/index/base.py", line 1517, in diff
+    other = self.repo.rev_parse(other)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py", line 415, in rev_parse
+    obj = name_to_object(repo, rev)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py", line 205, in name_to_object
+    return Object.new_from_sha(repo, hex_to_bin(hexsha))
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/objects/base.py", line 149, in new_from_sha
+    oinfo = repo.odb.info(sha1)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/db.py", line 41, in info
+    hexsha, typename, size = self._git.get_object_header(bin_to_hex(binsha))
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1696, in get_object_header
+    return self.__get_object_header(cmd, ref)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1679, in __get_object_header
+    cmd.stdin.flush()
+BrokenPipeError: [Errno 32] Broken pipe
+
+[2025-08-17 23:12:59.651] ERROR    [ThreadPoolExecutor-0_0] logger:error:380 - Failed to add files to staging
+Exception: Traceback (most recent call last):
+  File "/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py", line 120, in add_files
+    self.repo.git.add(A=True)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1003, in <lambda>
+    return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1616, in _call_process
+    return self.execute(call, **exec_kwargs)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1406, in execute
+    raise GitCommandError(redacted_command, status, stderr_value, stdout_value)
+git.exc.GitCommandError: Cmd('git') failed due to: exit code(128)
+  cmdline: git add -A
+  stderr: 'error: '.autocommit-pro/' does not have a commit checked out
+fatal: adding files failed'
+
+[2025-08-17 23:12:59.660] ERROR    [ThreadPoolExecutor-0_0] logger:error:380 - Auto-commit failed: Failed to add files: Cmd('git') failed due to: exit code(128)
+  cmdline: git add -A
+  stderr: 'error: '.autocommit-pro/' does not have a commit checked out
+fatal: adding files failed'
+[2025-08-17 23:13:09.897] ERROR    [Thread-14 (scheduler_loop)] logger:error:380 - Failed to get repository status
+Exception: Traceback (most recent call last):
+  File "/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py", line 88, in get_status
+    'hash': self.repo.head.commit.hexsha[:8],
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/refs/symbolic.py", line 392, in commit
+    return self._get_commit()
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/refs/symbolic.py", line 296, in _get_commit
+    obj = self._get_object()
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/refs/symbolic.py", line 287, in _get_object
+    return Object.new_from_sha(self.repo, hex_to_bin(self.dereference_recursive(self.repo, self.path)))
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/objects/base.py", line 149, in new_from_sha
+    oinfo = repo.odb.info(sha1)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/db.py", line 41, in info
+    hexsha, typename, size = self._git.get_object_header(bin_to_hex(binsha))
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1696, in get_object_header
+    return self.__get_object_header(cmd, ref)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1679, in __get_object_header
+    cmd.stdin.flush()
+BrokenPipeError: [Errno 32] Broken pipe
+
+[2025-08-17 23:13:11.907] ERROR    [MainThread] logger:error:380 - Failed to create commit
+Exception: Traceback (most recent call last):
+  File "/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py", line 142, in commit
+    if not self.repo.index.diff("HEAD"):
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/index/base.py", line 1517, in diff
+    other = self.repo.rev_parse(other)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py", line 415, in rev_parse
+    obj = name_to_object(repo, rev)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py", line 205, in name_to_object
+    return Object.new_from_sha(repo, hex_to_bin(hexsha))
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/objects/base.py", line 149, in new_from_sha
+    oinfo = repo.odb.info(sha1)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/db.py", line 41, in info
+    hexsha, typename, size = self._git.get_object_header(bin_to_hex(binsha))
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1696, in get_object_header
+    return self.__get_object_header(cmd, ref)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1679, in __get_object_header
+    cmd.stdin.flush()
+BrokenPipeError: [Errno 32] Broken pipe
+
+[2025-08-17 23:13:11.917] ERROR    [MainThread] logger:error:380 - Auto-commit failed: Commit failed: [Errno 32] Broken pipe
+[2025-08-17 23:13:12.010] ERROR    [MainThread] logger:error:380 - Failed to get repository status
+Exception: Traceback (most recent call last):
+  File "/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py", line 85, in get_status
+    'staged_files': [item.a_path for item in self.repo.index.diff("HEAD")],
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/index/base.py", line 1517, in diff
+    other = self.repo.rev_parse(other)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py", line 415, in rev_parse
+    obj = name_to_object(repo, rev)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py", line 205, in name_to_object
+    return Object.new_from_sha(repo, hex_to_bin(hexsha))
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/objects/base.py", line 149, in new_from_sha
+    oinfo = repo.odb.info(sha1)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/db.py", line 41, in info
+    hexsha, typename, size = self._git.get_object_header(bin_to_hex(binsha))
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1696, in get_object_header
+    return self.__get_object_header(cmd, ref)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1679, in __get_object_header
+    cmd.stdin.flush()
+BrokenPipeError: [Errno 32] Broken pipe
+
+[2025-08-17 23:14:11.166] ERROR    [ThreadPoolExecutor-0_0] logger:error:380 - Failed to add files to staging
+Exception: Traceback (most recent call last):
+  File "/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py", line 120, in add_files
+    self.repo.git.add(A=True)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1003, in <lambda>
+    return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1616, in _call_process
+    return self.execute(call, **exec_kwargs)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1406, in execute
+    raise GitCommandError(redacted_command, status, stderr_value, stdout_value)
+git.exc.GitCommandError: Cmd('git') failed due to: exit code(128)
+  cmdline: git add -A
+  stderr: 'error: '.autocommit-pro/' does not have a commit checked out
+fatal: adding files failed'
+
+[2025-08-17 23:14:11.174] ERROR    [ThreadPoolExecutor-0_0] logger:error:380 - Auto-commit failed: Failed to add files: Cmd('git') failed due to: exit code(128)
+  cmdline: git add -A
+  stderr: 'error: '.autocommit-pro/' does not have a commit checked out
+fatal: adding files failed'
+[2025-08-17 23:14:17.228] ERROR    [ThreadPoolExecutor-0_0] logger:error:380 - Failed to add files to staging
+Exception: Traceback (most recent call last):
+  File "/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py", line 120, in add_files
+    self.repo.git.add(A=True)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1003, in <lambda>
+    return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1616, in _call_process
+    return self.execute(call, **exec_kwargs)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1406, in execute
+    raise GitCommandError(redacted_command, status, stderr_value, stdout_value)
+git.exc.GitCommandError: Cmd('git') failed due to: exit code(128)
+  cmdline: git add -A
+  stderr: 'error: '.autocommit-pro/' does not have a commit checked out
+fatal: adding files failed'
+
+[2025-08-17 23:14:17.241] ERROR    [ThreadPoolExecutor-0_0] logger:error:380 - Auto-commit failed: Failed to add files: Cmd('git') failed due to: exit code(128)
+  cmdline: git add -A
+  stderr: 'error: '.autocommit-pro/' does not have a commit checked out
+fatal: adding files failed'
+[2025-08-17 23:14:24.232] ERROR    [MainThread] logger:error:380 - Failed to create commit
+Exception: Traceback (most recent call last):
+  File "/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py", line 142, in commit
+    if not self.repo.index.diff("HEAD"):
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/index/base.py", line 1517, in diff
+    other = self.repo.rev_parse(other)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py", line 415, in rev_parse
+    obj = name_to_object(repo, rev)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py", line 205, in name_to_object
+    return Object.new_from_sha(repo, hex_to_bin(hexsha))
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/objects/base.py", line 149, in new_from_sha
+    oinfo = repo.odb.info(sha1)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/db.py", line 41, in info
+    hexsha, typename, size = self._git.get_object_header(bin_to_hex(binsha))
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1696, in get_object_header
+    return self.__get_object_header(cmd, ref)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1679, in __get_object_header
+    cmd.stdin.flush()
+BrokenPipeError: [Errno 32] Broken pipe
+
+[2025-08-17 23:14:24.241] ERROR    [MainThread] logger:error:380 - Auto-commit failed: Commit failed: [Errno 32] Broken pipe
+[2025-08-17 23:14:24.331] ERROR    [MainThread] logger:error:380 - Failed to get repository status
+Exception: Traceback (most recent call last):
+  File "/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py", line 85, in get_status
+    'staged_files': [item.a_path for item in self.repo.index.diff("HEAD")],
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/index/base.py", line 1517, in diff
+    other = self.repo.rev_parse(other)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py", line 415, in rev_parse
+    obj = name_to_object(repo, rev)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py", line 205, in name_to_object
+    return Object.new_from_sha(repo, hex_to_bin(hexsha))
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/objects/base.py", line 149, in new_from_sha
+    oinfo = repo.odb.info(sha1)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/db.py", line 41, in info
+    hexsha, typename, size = self._git.get_object_header(bin_to_hex(binsha))
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1696, in get_object_header
+    return self.__get_object_header(cmd, ref)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1679, in __get_object_header
+    cmd.stdin.flush()
+BrokenPipeError: [Errno 32] Broken pipe
+
+[2025-08-17 23:15:59.393] ERROR    [ThreadPoolExecutor-0_0] logger:error:380 - Failed to add files to staging
+Exception: Traceback (most recent call last):
+  File "/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py", line 120, in add_files
+    self.repo.git.add(A=True)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1003, in <lambda>
+    return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1616, in _call_process
+    return self.execute(call, **exec_kwargs)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1406, in execute
+    raise GitCommandError(redacted_command, status, stderr_value, stdout_value)
+git.exc.GitCommandError: Cmd('git') failed due to: exit code(128)
+  cmdline: git add -A
+  stderr: 'error: '.autocommit-pro/' does not have a commit checked out
+fatal: adding files failed'
+
+[2025-08-17 23:15:59.402] ERROR    [ThreadPoolExecutor-0_0] logger:error:380 - Auto-commit failed: Failed to add files: Cmd('git') failed due to: exit code(128)
+  cmdline: git add -A
+  stderr: 'error: '.autocommit-pro/' does not have a commit checked out
+fatal: adding files failed'
+[2025-08-17 23:16:05.411] ERROR    [ThreadPoolExecutor-0_0] logger:error:380 - Failed to add files to staging
+Exception: Traceback (most recent call last):
+  File "/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py", line 120, in add_files
+    self.repo.git.add(A=True)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1003, in <lambda>
+    return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1616, in _call_process
+    return self.execute(call, **exec_kwargs)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1406, in execute
+    raise GitCommandError(redacted_command, status, stderr_value, stdout_value)
+git.exc.GitCommandError: Cmd('git') failed due to: exit code(128)
+  cmdline: git add -A
+  stderr: 'error: '.autocommit-pro/' does not have a commit checked out
+fatal: adding files failed'
+
+[2025-08-17 23:16:05.420] ERROR    [ThreadPoolExecutor-0_0] logger:error:380 - Auto-commit failed: Failed to add files: Cmd('git') failed due to: exit code(128)
+  cmdline: git add -A
+  stderr: 'error: '.autocommit-pro/' does not have a commit checked out
+fatal: adding files failed'
+[2025-08-17 23:16:10.024] ERROR    [ThreadPoolExecutor-0_0] logger:error:380 - Failed to add files to staging
+Exception: Traceback (most recent call last):
+  File "/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py", line 120, in add_files
+    self.repo.git.add(A=True)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1003, in <lambda>
+    return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1616, in _call_process
+    return self.execute(call, **exec_kwargs)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1406, in execute
+    raise GitCommandError(redacted_command, status, stderr_value, stdout_value)
+git.exc.GitCommandError: Cmd('git') failed due to: exit code(128)
+  cmdline: git add -A
+  stderr: 'error: '.autocommit-pro/' does not have a commit checked out
+fatal: adding files failed'
+
+[2025-08-17 23:16:10.033] ERROR    [ThreadPoolExecutor-0_0] logger:error:380 - Auto-commit failed: Failed to add files: Cmd('git') failed due to: exit code(128)
+  cmdline: git add -A
+  stderr: 'error: '.autocommit-pro/' does not have a commit checked out
+fatal: adding files failed'
+[2025-08-17 23:16:15.000] ERROR    [ThreadPoolExecutor-0_0] logger:error:380 - Failed to create commit
+Exception: Traceback (most recent call last):
+  File "/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py", line 142, in commit
+    if not self.repo.index.diff("HEAD"):
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/index/base.py", line 1517, in diff
+    other = self.repo.rev_parse(other)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py", line 415, in rev_parse
+    obj = name_to_object(repo, rev)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py", line 205, in name_to_object
+    return Object.new_from_sha(repo, hex_to_bin(hexsha))
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/objects/base.py", line 149, in new_from_sha
+    oinfo = repo.odb.info(sha1)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/db.py", line 41, in info
+    hexsha, typename, size = self._git.get_object_header(bin_to_hex(binsha))
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1696, in get_object_header
+    return self.__get_object_header(cmd, ref)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1679, in __get_object_header
+    cmd.stdin.flush()
+BrokenPipeError: [Errno 32] Broken pipe
+
+[2025-08-17 23:16:15.016] ERROR    [ThreadPoolExecutor-0_0] logger:error:380 - Auto-commit failed: Commit failed: [Errno 32] Broken pipe
+[2025-08-17 23:16:16.598] ERROR    [MainThread] logger:error:380 - Failed to create commit
+Exception: Traceback (most recent call last):
+  File "/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py", line 142, in commit
+    if not self.repo.index.diff("HEAD"):
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/index/base.py", line 1517, in diff
+    other = self.repo.rev_parse(other)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py", line 415, in rev_parse
+    obj = name_to_object(repo, rev)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py", line 205, in name_to_object
+    return Object.new_from_sha(repo, hex_to_bin(hexsha))
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/objects/base.py", line 149, in new_from_sha
+    oinfo = repo.odb.info(sha1)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/db.py", line 41, in info
+    hexsha, typename, size = self._git.get_object_header(bin_to_hex(binsha))
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1696, in get_object_header
+    return self.__get_object_header(cmd, ref)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1679, in __get_object_header
+    cmd.stdin.flush()
+BrokenPipeError: [Errno 32] Broken pipe
+
+[2025-08-17 23:16:16.608] ERROR    [MainThread] logger:error:380 - Auto-commit failed: Commit failed: [Errno 32] Broken pipe
+[2025-08-17 23:16:16.698] ERROR    [MainThread] logger:error:380 - Failed to get repository status
+Exception: Traceback (most recent call last):
+  File "/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py", line 85, in get_status
+    'staged_files': [item.a_path for item in self.repo.index.diff("HEAD")],
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/index/base.py", line 1517, in diff
+    other = self.repo.rev_parse(other)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py", line 415, in rev_parse
+    obj = name_to_object(repo, rev)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py", line 205, in name_to_object
+    return Object.new_from_sha(repo, hex_to_bin(hexsha))
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/objects/base.py", line 149, in new_from_sha
+    oinfo = repo.odb.info(sha1)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/db.py", line 41, in info
+    hexsha, typename, size = self._git.get_object_header(bin_to_hex(binsha))
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1696, in get_object_header
+    return self.__get_object_header(cmd, ref)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1679, in __get_object_header
+    cmd.stdin.flush()
+BrokenPipeError: [Errno 32] Broken pipe
+

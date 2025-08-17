@@ -1,0 +1,4992 @@
+{
+  "timestamp": "2025-08-17T21:27:50.944471",
+  "level": "INFO",
+  "message": "Connected to git repository: /Users/arif/Desktop/Bakalimm/Auto-Push-And-AI-Commit-Mesaj/.autocommit-pro",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 67617,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:27:50.946252",
+  "level": "INFO",
+  "message": "File monitoring callback registered",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 67617,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:27:50.947303",
+  "level": "INFO",
+  "message": "Scheduled tasks configured",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 67617,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:27:50.948454",
+  "level": "INFO",
+  "message": "AutoGitManager initialized for: /Users/arif/Desktop/Bakalimm/Auto-Push-And-AI-Commit-Mesaj/.autocommit-pro",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 67617,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:27:50.949635",
+  "level": "INFO",
+  "message": "🚀 Starting AutoGitManager...",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 67617,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:27:50.980405",
+  "level": "INFO",
+  "message": "Repository status: Branch=main, Dirty=False",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 67617,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:27:50.985530",
+  "level": "INFO",
+  "message": "Scheduler thread started",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 67617,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:27:50.986778",
+  "level": "SUCCESS",
+  "message": "AutoGitManager started successfully!",
+  "module": "logger",
+  "function": "success",
+  "line_number": 370,
+  "thread_id": "MainThread",
+  "process_id": 67617,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:34:38.015912",
+  "level": "INFO",
+  "message": "Connected to git repository: /Users/arif/Desktop/Bakalimm/Auto-Push-And-AI-Commit-Mesaj/.autocommit-pro",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 69212,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:34:38.018178",
+  "level": "INFO",
+  "message": "File monitoring callback registered",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 69212,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:34:38.019294",
+  "level": "INFO",
+  "message": "Scheduled tasks configured",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 69212,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:34:38.020589",
+  "level": "INFO",
+  "message": "AutoGitManager initialized for: /Users/arif/Desktop/Bakalimm/Auto-Push-And-AI-Commit-Mesaj/.autocommit-pro",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 69212,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:34:38.022507",
+  "level": "INFO",
+  "message": "🚀 Starting AutoGitManager...",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 69212,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:34:38.059095",
+  "level": "INFO",
+  "message": "Repository status: Branch=main, Dirty=False",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 69212,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:34:38.064060",
+  "level": "INFO",
+  "message": "Scheduler thread started",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 69212,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:34:38.065322",
+  "level": "SUCCESS",
+  "message": "AutoGitManager started successfully!",
+  "module": "logger",
+  "function": "success",
+  "line_number": 370,
+  "thread_id": "MainThread",
+  "process_id": 69212,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:34:52.581510",
+  "level": "INFO",
+  "message": "🛑 Stopping AutoGitManager...",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 67617,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:34:52.598763",
+  "level": "INFO",
+  "message": "Final push before shutdown...",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 67617,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:34:52.602953",
+  "level": "INFO",
+  "message": "Starting auto-push to remote repository",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 67617,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:34:52.637494",
+  "level": "WARNING",
+  "message": "Auto-push failed: No commits to push",
+  "module": "logger",
+  "function": "warning",
+  "line_number": 374,
+  "thread_id": "MainThread",
+  "process_id": 67617,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:34:52.643326",
+  "level": "SUCCESS",
+  "message": "AutoGitManager stopped successfully!",
+  "module": "logger",
+  "function": "success",
+  "line_number": 370,
+  "thread_id": "MainThread",
+  "process_id": 67617,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:35:08.068426",
+  "level": "DEBUG",
+  "message": "Processing 1 file changes",
+  "module": "logger",
+  "function": "debug",
+  "line_number": 362,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 69212,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:35:08.698332",
+  "level": "INFO",
+  "message": "Connected to git repository: /Users/arif/Desktop/Bakalimm/Auto-Push-And-AI-Commit-Mesaj/.autocommit-pro",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 69544,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:35:08.699186",
+  "level": "INFO",
+  "message": "File monitoring callback registered",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 69544,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:35:08.699452",
+  "level": "INFO",
+  "message": "Scheduled tasks configured",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 69544,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:35:08.699730",
+  "level": "INFO",
+  "message": "AutoGitManager initialized for: /Users/arif/Desktop/Bakalimm/Auto-Push-And-AI-Commit-Mesaj/.autocommit-pro",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 69544,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:35:38.075678",
+  "level": "DEBUG",
+  "message": "Processing 1 file changes",
+  "module": "logger",
+  "function": "debug",
+  "line_number": 362,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 69212,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:39:27.446933",
+  "level": "INFO",
+  "message": "Connected to git repository: /Users/arif/Desktop/Bakalimm/Auto-Push-And-AI-Commit-Mesaj/.autocommit-pro",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 70473,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:39:27.447843",
+  "level": "INFO",
+  "message": "File monitoring callback registered",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 70473,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:39:27.448111",
+  "level": "INFO",
+  "message": "Scheduled tasks configured",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 70473,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:39:27.448329",
+  "level": "INFO",
+  "message": "AutoGitManager initialized for: /Users/arif/Desktop/Bakalimm/Auto-Push-And-AI-Commit-Mesaj/.autocommit-pro",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 70473,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:39:27.483435",
+  "level": "ERROR",
+  "message": "Failed to create commit",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "MainThread",
+  "process_id": 70473,
+  "context": null,
+  "exception": "Traceback (most recent call last):\n  File \"/Users/arif/Desktop/Bakalimm/Auto-Push-And-AI-Commit-Mesaj/.autocommit-pro/auto_git_manager.py\", line 142, in commit\n    if not self.repo.index.diff(\"HEAD\"):\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/index/base.py\", line 1517, in diff\n    other = self.repo.rev_parse(other)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py\", line 415, in rev_parse\n    obj = name_to_object(repo, rev)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py\", line 202, in name_to_object\n    raise BadName(name)\ngitdb.exc.BadName: Ref 'HEAD' did not resolve to an object\n",
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:39:30.576194",
+  "level": "DEBUG",
+  "message": "Processing 1 file changes",
+  "module": "logger",
+  "function": "debug",
+  "line_number": 362,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 69212,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:39:30.581735",
+  "level": "INFO",
+  "message": "Starting auto-commit for 1 changed files",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 69212,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:39:33.484842",
+  "level": "ERROR",
+  "message": "Failed to create commit",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 69212,
+  "context": null,
+  "exception": "Traceback (most recent call last):\n  File \"/Users/arif/Desktop/Bakalimm/Auto-Push-And-AI-Commit-Mesaj/.autocommit-pro/auto_git_manager.py\", line 142, in commit\n    if not self.repo.index.diff(\"HEAD\"):\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/index/base.py\", line 1517, in diff\n    other = self.repo.rev_parse(other)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py\", line 415, in rev_parse\n    obj = name_to_object(repo, rev)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py\", line 202, in name_to_object\n    raise BadName(name)\ngitdb.exc.BadName: Ref 'HEAD' did not resolve to an object\n",
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:39:33.493872",
+  "level": "ERROR",
+  "message": "Auto-commit failed: Commit failed: Ref 'HEAD' did not resolve to an object",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 69212,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:40:17.297951",
+  "level": "INFO",
+  "message": "Connected to git repository: /Users/arif/Desktop/Bakalimm/Auto-Push-And-AI-Commit-Mesaj/.autocommit-pro",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 70685,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:40:17.299835",
+  "level": "INFO",
+  "message": "File monitoring callback registered",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 70685,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:40:17.301518",
+  "level": "INFO",
+  "message": "Scheduled tasks configured",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 70685,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:40:17.302816",
+  "level": "INFO",
+  "message": "AutoGitManager initialized for: /Users/arif/Desktop/Bakalimm/Auto-Push-And-AI-Commit-Mesaj/.autocommit-pro",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 70685,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:40:17.304302",
+  "level": "INFO",
+  "message": "🚀 Starting AutoGitManager...",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 70685,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:40:17.337432",
+  "level": "INFO",
+  "message": "Repository status: Branch=main, Dirty=False",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 70685,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:40:17.343341",
+  "level": "INFO",
+  "message": "Scheduler thread started",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 70685,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:40:17.344765",
+  "level": "SUCCESS",
+  "message": "AutoGitManager started successfully!",
+  "module": "logger",
+  "function": "success",
+  "line_number": 370,
+  "thread_id": "MainThread",
+  "process_id": 70685,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:40:30.311804",
+  "level": "INFO",
+  "message": "🛑 Stopping AutoGitManager...",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 69212,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:40:30.318705",
+  "level": "INFO",
+  "message": "Committing pending changes before shutdown...",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 69212,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:40:30.323745",
+  "level": "INFO",
+  "message": "Starting auto-commit for 1 changed files",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 69212,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:40:32.428381",
+  "level": "ERROR",
+  "message": "Failed to create commit",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "MainThread",
+  "process_id": 69212,
+  "context": null,
+  "exception": "Traceback (most recent call last):\n  File \"/Users/arif/Desktop/Bakalimm/Auto-Push-And-AI-Commit-Mesaj/.autocommit-pro/auto_git_manager.py\", line 142, in commit\n    if not self.repo.index.diff(\"HEAD\"):\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/index/base.py\", line 1517, in diff\n    other = self.repo.rev_parse(other)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py\", line 415, in rev_parse\n    obj = name_to_object(repo, rev)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py\", line 202, in name_to_object\n    raise BadName(name)\ngitdb.exc.BadName: Ref 'HEAD' did not resolve to an object\n",
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:40:32.438096",
+  "level": "ERROR",
+  "message": "Auto-commit failed: Commit failed: Ref 'HEAD' did not resolve to an object",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "MainThread",
+  "process_id": 69212,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:40:32.449724",
+  "level": "INFO",
+  "message": "Final push before shutdown...",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 69212,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:40:32.452833",
+  "level": "INFO",
+  "message": "Starting auto-push to remote repository",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 69212,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:40:32.489089",
+  "level": "WARNING",
+  "message": "Auto-push failed: No commits to push",
+  "module": "logger",
+  "function": "warning",
+  "line_number": 374,
+  "thread_id": "MainThread",
+  "process_id": 69212,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:40:32.493495",
+  "level": "SUCCESS",
+  "message": "AutoGitManager stopped successfully!",
+  "module": "logger",
+  "function": "success",
+  "line_number": 370,
+  "thread_id": "MainThread",
+  "process_id": 69212,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:40:35.727828",
+  "level": "INFO",
+  "message": "🛑 Stopping AutoGitManager...",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 70685,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:40:35.739535",
+  "level": "DEBUG",
+  "message": "Processing 1 file changes",
+  "module": "logger",
+  "function": "debug",
+  "line_number": 362,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 70685,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:40:35.759014",
+  "level": "INFO",
+  "message": "Final push before shutdown...",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 70685,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:40:35.774055",
+  "level": "INFO",
+  "message": "Starting auto-push to remote repository",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 70685,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:40:35.820670",
+  "level": "WARNING",
+  "message": "Auto-push failed: No commits to push",
+  "module": "logger",
+  "function": "warning",
+  "line_number": 374,
+  "thread_id": "MainThread",
+  "process_id": 70685,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:40:35.825057",
+  "level": "SUCCESS",
+  "message": "AutoGitManager stopped successfully!",
+  "module": "logger",
+  "function": "success",
+  "line_number": 370,
+  "thread_id": "MainThread",
+  "process_id": 70685,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:40:39.070535",
+  "level": "INFO",
+  "message": "Connected to git repository: /Users/arif/Desktop/Bakalimm/Auto-Push-And-AI-Commit-Mesaj/.autocommit-pro",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 70940,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:40:39.072333",
+  "level": "INFO",
+  "message": "File monitoring callback registered",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 70940,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:40:39.073767",
+  "level": "INFO",
+  "message": "Scheduled tasks configured",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 70940,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:40:39.075028",
+  "level": "INFO",
+  "message": "AutoGitManager initialized for: /Users/arif/Desktop/Bakalimm/Auto-Push-And-AI-Commit-Mesaj/.autocommit-pro",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 70940,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:40:39.076318",
+  "level": "INFO",
+  "message": "🚀 Starting AutoGitManager...",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 70940,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:40:39.117549",
+  "level": "INFO",
+  "message": "Repository status: Branch=main, Dirty=False",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 70940,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:40:39.122636",
+  "level": "INFO",
+  "message": "Scheduler thread started",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 70940,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:40:39.123885",
+  "level": "SUCCESS",
+  "message": "AutoGitManager started successfully!",
+  "module": "logger",
+  "function": "success",
+  "line_number": 370,
+  "thread_id": "MainThread",
+  "process_id": 70940,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:42:43.638602",
+  "level": "INFO",
+  "message": "🛑 Stopping AutoGitManager...",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 70940,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:42:43.657783",
+  "level": "INFO",
+  "message": "Final push before shutdown...",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 70940,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:42:43.662069",
+  "level": "INFO",
+  "message": "Starting auto-push to remote repository",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 70940,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:42:43.698290",
+  "level": "WARNING",
+  "message": "Auto-push failed: No commits to push",
+  "module": "logger",
+  "function": "warning",
+  "line_number": 374,
+  "thread_id": "MainThread",
+  "process_id": 70940,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:42:43.702350",
+  "level": "SUCCESS",
+  "message": "AutoGitManager stopped successfully!",
+  "module": "logger",
+  "function": "success",
+  "line_number": 370,
+  "thread_id": "MainThread",
+  "process_id": 70940,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:44:00.927962",
+  "level": "INFO",
+  "message": "Connected to git repository: /Users/arif/Desktop/Bakalimm/Auto-Push-And-AI-Commit-Mesaj/.autocommit-pro",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 71729,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:44:00.929906",
+  "level": "INFO",
+  "message": "File monitoring callback registered",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 71729,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:44:00.931405",
+  "level": "INFO",
+  "message": "Scheduled tasks configured",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 71729,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:44:00.932712",
+  "level": "INFO",
+  "message": "AutoGitManager initialized for: /Users/arif/Desktop/Bakalimm/Auto-Push-And-AI-Commit-Mesaj/.autocommit-pro",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 71729,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:44:00.934078",
+  "level": "INFO",
+  "message": "🚀 Starting AutoGitManager...",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 71729,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:44:00.967216",
+  "level": "INFO",
+  "message": "Repository status: Branch=main, Dirty=False",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 71729,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:44:00.972804",
+  "level": "INFO",
+  "message": "Scheduler thread started",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 71729,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:44:00.973966",
+  "level": "SUCCESS",
+  "message": "AutoGitManager started successfully!",
+  "module": "logger",
+  "function": "success",
+  "line_number": 370,
+  "thread_id": "MainThread",
+  "process_id": 71729,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:45:49.432994",
+  "level": "INFO",
+  "message": "🛑 Stopping AutoGitManager...",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 71729,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:45:49.449997",
+  "level": "INFO",
+  "message": "Final push before shutdown...",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 71729,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:45:49.454411",
+  "level": "INFO",
+  "message": "Starting auto-push to remote repository",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 71729,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:45:49.461292",
+  "level": "ERROR",
+  "message": "Failed to push to remote",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "MainThread",
+  "process_id": 71729,
+  "context": null,
+  "exception": "Traceback (most recent call last):\n  File \"/Users/arif/Desktop/Bakalimm/Auto-Push-And-AI-Commit-Mesaj/.autocommit-pro/auto_git_manager.py\", line 169, in push\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/base.py\", line 1054, in active_branch\n    return self.head.reference\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/refs/symbolic.py\", line 506, in reference\n    return self._get_reference()\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/refs/symbolic.py\", line 416, in _get_reference\n    sha, target_ref_path = self._get_ref_info(self.repo, self.path)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/refs/symbolic.py\", line 277, in _get_ref_info\n    return cls._get_ref_info_helper(repo, ref_path)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/refs/symbolic.py\", line 256, in _get_ref_info_helper\n    raise ValueError(\"Reference at %r does not exist\" % ref_path)\nValueError: Reference at 'HEAD' does not exist\n",
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:45:49.469592",
+  "level": "WARNING",
+  "message": "Auto-push failed: Push failed: Reference at 'HEAD' does not exist",
+  "module": "logger",
+  "function": "warning",
+  "line_number": 374,
+  "thread_id": "MainThread",
+  "process_id": 71729,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:45:49.472730",
+  "level": "SUCCESS",
+  "message": "AutoGitManager stopped successfully!",
+  "module": "logger",
+  "function": "success",
+  "line_number": 370,
+  "thread_id": "MainThread",
+  "process_id": 71729,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:46:21.880873",
+  "level": "INFO",
+  "message": "Connected to git repository: /Users/arif/Desktop/auto_commit_programs/Bakalimm/.autocommit-pro",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 72833,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:46:21.881799",
+  "level": "INFO",
+  "message": "File monitoring callback registered",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 72833,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:46:21.882084",
+  "level": "INFO",
+  "message": "Scheduled tasks configured",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 72833,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:46:21.882361",
+  "level": "INFO",
+  "message": "AutoGitManager initialized for: /Users/arif/Desktop/auto_commit_programs/Bakalimm/.autocommit-pro",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 72833,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:46:34.576878",
+  "level": "INFO",
+  "message": "Connected to git repository: /Users/arif/Desktop/auto_commit_programs/Bakalimm/.autocommit-pro",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 72916,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:46:34.578810",
+  "level": "INFO",
+  "message": "File monitoring callback registered",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 72916,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:46:34.580105",
+  "level": "INFO",
+  "message": "Scheduled tasks configured",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 72916,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:46:34.581259",
+  "level": "INFO",
+  "message": "AutoGitManager initialized for: /Users/arif/Desktop/auto_commit_programs/Bakalimm/.autocommit-pro",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 72916,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:46:34.582492",
+  "level": "INFO",
+  "message": "🚀 Starting AutoGitManager...",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 72916,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:46:34.617510",
+  "level": "INFO",
+  "message": "Repository status: Branch=main, Dirty=False",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 72916,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:46:34.623032",
+  "level": "INFO",
+  "message": "Scheduler thread started",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 72916,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:46:34.624258",
+  "level": "SUCCESS",
+  "message": "AutoGitManager started successfully!",
+  "module": "logger",
+  "function": "success",
+  "line_number": 370,
+  "thread_id": "MainThread",
+  "process_id": 72916,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:49:09.316075",
+  "level": "INFO",
+  "message": "🛑 Stopping AutoGitManager...",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 72916,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:49:09.333448",
+  "level": "INFO",
+  "message": "Final push before shutdown...",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 72916,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:49:09.336885",
+  "level": "INFO",
+  "message": "Starting auto-push to remote repository",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 72916,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:49:09.372720",
+  "level": "WARNING",
+  "message": "Auto-push failed: No commits to push",
+  "module": "logger",
+  "function": "warning",
+  "line_number": 374,
+  "thread_id": "MainThread",
+  "process_id": 72916,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:49:09.377032",
+  "level": "SUCCESS",
+  "message": "AutoGitManager stopped successfully!",
+  "module": "logger",
+  "function": "success",
+  "line_number": 370,
+  "thread_id": "MainThread",
+  "process_id": 72916,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:49:52.266277",
+  "level": "INFO",
+  "message": "Connected to git repository: /Users/arif/Desktop/auto_commit_programs/Bakalimm/.autocommit-pro",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 74269,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:49:52.267297",
+  "level": "INFO",
+  "message": "File monitoring callback registered",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 74269,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:49:52.267609",
+  "level": "INFO",
+  "message": "Scheduled tasks configured",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 74269,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:49:52.267875",
+  "level": "INFO",
+  "message": "AutoGitManager initialized for: /Users/arif/Desktop/auto_commit_programs/Bakalimm/.autocommit-pro",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 74269,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:49:52.304326",
+  "level": "ERROR",
+  "message": "Failed to create commit",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "MainThread",
+  "process_id": 74269,
+  "context": null,
+  "exception": "Traceback (most recent call last):\n  File \"/Users/arif/Desktop/auto_commit_programs/Bakalimm/.autocommit-pro/auto_git_manager.py\", line 142, in commit\n    if not self.repo.index.diff(\"HEAD\"):\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/index/base.py\", line 1517, in diff\n    other = self.repo.rev_parse(other)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py\", line 415, in rev_parse\n    obj = name_to_object(repo, rev)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py\", line 202, in name_to_object\n    raise BadName(name)\ngitdb.exc.BadName: Ref 'HEAD' did not resolve to an object\n",
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:50:21.171239",
+  "level": "INFO",
+  "message": "Connected to git repository: /Users/arif/Desktop/auto_commit_programs/Bakalimm/.autocommit-pro",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 74804,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:50:21.172311",
+  "level": "INFO",
+  "message": "File monitoring callback registered",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 74804,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:50:21.172616",
+  "level": "INFO",
+  "message": "Scheduled tasks configured",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 74804,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:50:21.172964",
+  "level": "INFO",
+  "message": "AutoGitManager initialized for: /Users/arif/Desktop/auto_commit_programs/Bakalimm/.autocommit-pro",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 74804,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:52:07.631394",
+  "level": "INFO",
+  "message": "Connected to git repository: /Users/arif/Desktop/auto_commit_programs/Bakalimm/.autocommit-pro",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 76525,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:52:07.632390",
+  "level": "INFO",
+  "message": "File monitoring callback registered",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 76525,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:52:07.632700",
+  "level": "INFO",
+  "message": "Scheduled tasks configured",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 76525,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:52:07.632956",
+  "level": "INFO",
+  "message": "AutoGitManager initialized for: /Users/arif/Desktop/auto_commit_programs/Bakalimm/.autocommit-pro",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 76525,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:52:07.669570",
+  "level": "ERROR",
+  "message": "Failed to create commit",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "MainThread",
+  "process_id": 76525,
+  "context": null,
+  "exception": "Traceback (most recent call last):\n  File \"/Users/arif/Desktop/auto_commit_programs/Bakalimm/.autocommit-pro/auto_git_manager.py\", line 142, in commit\n    if not self.repo.index.diff(\"HEAD\"):\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/index/base.py\", line 1517, in diff\n    other = self.repo.rev_parse(other)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py\", line 415, in rev_parse\n    obj = name_to_object(repo, rev)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py\", line 202, in name_to_object\n    raise BadName(name)\ngitdb.exc.BadName: Ref 'HEAD' did not resolve to an object\n",
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:52:22.210316",
+  "level": "INFO",
+  "message": "Connected to git repository: /Users/arif/Desktop/auto_commit_programs/Bakalimm/.autocommit-pro",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 76744,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:52:22.211279",
+  "level": "INFO",
+  "message": "File monitoring callback registered",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 76744,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:52:22.211562",
+  "level": "INFO",
+  "message": "Scheduled tasks configured",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 76744,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:52:22.211783",
+  "level": "INFO",
+  "message": "AutoGitManager initialized for: /Users/arif/Desktop/auto_commit_programs/Bakalimm/.autocommit-pro",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 76744,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:55:42.774330",
+  "level": "INFO",
+  "message": "Connected to git repository: /Users/arif/Desktop/auto_commit_programs/Bakalimm/.autocommit-pro",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 80534,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:56:04.510447",
+  "level": "INFO",
+  "message": "Connected to git repository: /Users/arif/Desktop/auto_commit_programs/Bakalimm/.autocommit-pro",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 81966,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:56:20.632426",
+  "level": "INFO",
+  "message": "Connected to git repository: /Users/arif/Desktop/auto_commit_programs/Bakalimm/.autocommit-pro",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 82160,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:58:23.942628",
+  "level": "INFO",
+  "message": "Connected to git repository: /Users/arif/Desktop/auto_commit_programs/Bakalimm",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 83243,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T21:58:56.042844",
+  "level": "INFO",
+  "message": "Connected to git repository: /Users/arif/Desktop/auto_commit_programs/Bakalimm",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 83879,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:15:20.500487",
+  "level": "INFO",
+  "message": "Connected to git repository: /Users/arif/Desktop/auto_commit_programs/Bakalimm",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 85058,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:15:20.501332",
+  "level": "WARNING",
+  "message": "AI API key not found. AI commit messages will be disabled.",
+  "module": "logger",
+  "function": "warning",
+  "line_number": 374,
+  "thread_id": "MainThread",
+  "process_id": 85058,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:15:20.501525",
+  "level": "INFO",
+  "message": "File monitoring callback registered",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 85058,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:15:20.501814",
+  "level": "INFO",
+  "message": "Scheduled tasks configured",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 85058,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:15:20.502149",
+  "level": "INFO",
+  "message": "AutoGitManager initialized for: /Users/arif/Desktop/auto_commit_programs/Bakalimm/.autocommit-pro",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 85058,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:16:19.381741",
+  "level": "INFO",
+  "message": "Connected to git repository: /Users/arif/Desktop/auto_commit_programs/Bakalimm",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 85766,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:16:19.382769",
+  "level": "WARNING",
+  "message": "AI API key not found. AI commit messages will be disabled.",
+  "module": "logger",
+  "function": "warning",
+  "line_number": 374,
+  "thread_id": "MainThread",
+  "process_id": 85766,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:16:19.382980",
+  "level": "INFO",
+  "message": "File monitoring callback registered",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 85766,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:16:19.383327",
+  "level": "INFO",
+  "message": "Scheduled tasks configured",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 85766,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:16:19.383609",
+  "level": "INFO",
+  "message": "AutoGitManager initialized for: /Users/arif/Desktop/auto_commit_programs/Bakalimm/.autocommit-pro",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 85766,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:16:19.492731",
+  "level": "INFO",
+  "message": "Added all files to staging area",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 85766,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:16:19.522137",
+  "level": "SUCCESS",
+  "message": "Created commit: fdebeeee - test: Add test file 6 for AutoCommit Pro testing...",
+  "module": "logger",
+  "function": "success",
+  "line_number": 370,
+  "thread_id": "MainThread",
+  "process_id": 85766,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:21:26.744903",
+  "level": "INFO",
+  "message": "Connected to git repository: /Users/arif/Desktop/auto_commit_programs/Bakalimm",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 89039,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:21:26.746985",
+  "level": "INFO",
+  "message": "File monitoring callback registered",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 89039,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:21:26.748246",
+  "level": "INFO",
+  "message": "Scheduled tasks configured",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 89039,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:21:26.749449",
+  "level": "INFO",
+  "message": "AutoGitManager initialized for: /Users/arif/Desktop/auto_commit_programs/Bakalimm/.autocommit-pro",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 89039,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:21:26.750713",
+  "level": "INFO",
+  "message": "🚀 Starting AutoGitManager...",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 89039,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:21:26.904863",
+  "level": "INFO",
+  "message": "Repository status: Branch=main, Dirty=True",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 89039,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:21:26.911350",
+  "level": "INFO",
+  "message": "Scheduler thread started",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 89039,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:21:26.912571",
+  "level": "SUCCESS",
+  "message": "AutoGitManager started successfully!",
+  "module": "logger",
+  "function": "success",
+  "line_number": 370,
+  "thread_id": "MainThread",
+  "process_id": 89039,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:21:57.702155",
+  "level": "INFO",
+  "message": "Periodic commit check: triggering auto-commit",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "Thread-13 (scheduler_loop)",
+  "process_id": 89039,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:21:57.706505",
+  "level": "DEBUG",
+  "message": "No pending changes for auto-commit",
+  "module": "logger",
+  "function": "debug",
+  "line_number": 362,
+  "thread_id": "Thread-13 (scheduler_loop)",
+  "process_id": 89039,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:22:02.836671",
+  "level": "INFO",
+  "message": "Periodic commit check: triggering auto-commit",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "Thread-13 (scheduler_loop)",
+  "process_id": 89039,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:22:02.841089",
+  "level": "DEBUG",
+  "message": "No pending changes for auto-commit",
+  "module": "logger",
+  "function": "debug",
+  "line_number": 362,
+  "thread_id": "Thread-13 (scheduler_loop)",
+  "process_id": 89039,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:22:03.542055",
+  "level": "INFO",
+  "message": "🛑 Stopping AutoGitManager...",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 89039,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:22:03.552672",
+  "level": "INFO",
+  "message": "Final push before shutdown...",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 89039,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:22:03.556433",
+  "level": "INFO",
+  "message": "Starting auto-push to remote repository",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 89039,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:22:03.833977",
+  "level": "ERROR",
+  "message": "Failed to get repository status",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "MainThread",
+  "process_id": 89039,
+  "context": null,
+  "exception": "Traceback (most recent call last):\n  File \"/Users/arif/Desktop/auto_commit_programs/Bakalimm/.autocommit-pro/auto_git_manager.py\", line 85, in get_status\n    'staged_files': [item.a_path for item in self.repo.index.diff(\"HEAD\")],\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/index/base.py\", line 1517, in diff\n    other = self.repo.rev_parse(other)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py\", line 415, in rev_parse\n    obj = name_to_object(repo, rev)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py\", line 205, in name_to_object\n    return Object.new_from_sha(repo, hex_to_bin(hexsha))\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/objects/base.py\", line 149, in new_from_sha\n    oinfo = repo.odb.info(sha1)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/db.py\", line 41, in info\n    hexsha, typename, size = self._git.get_object_header(bin_to_hex(binsha))\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1696, in get_object_header\n    return self.__get_object_header(cmd, ref)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1679, in __get_object_header\n    cmd.stdin.flush()\nBrokenPipeError: [Errno 32] Broken pipe\n",
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:22:03.843124",
+  "level": "WARNING",
+  "message": "Auto-push failed: No commits to push",
+  "module": "logger",
+  "function": "warning",
+  "line_number": 374,
+  "thread_id": "MainThread",
+  "process_id": 89039,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:22:03.846615",
+  "level": "SUCCESS",
+  "message": "AutoGitManager stopped successfully!",
+  "module": "logger",
+  "function": "success",
+  "line_number": 370,
+  "thread_id": "MainThread",
+  "process_id": 89039,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:26:09.709933",
+  "level": "INFO",
+  "message": "Connected to git repository: /Users/arif/Desktop/auto_commit_programs/Bakalimm",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 93015,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:26:09.711234",
+  "level": "INFO",
+  "message": "File monitoring callback registered",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 93015,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:26:09.711499",
+  "level": "INFO",
+  "message": "Scheduled tasks configured",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 93015,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:26:09.711800",
+  "level": "INFO",
+  "message": "AutoGitManager initialized for: /Users/arif/Desktop/auto_commit_programs/Bakalimm/.autocommit-pro",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 93015,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:26:09.825599",
+  "level": "ERROR",
+  "message": "Failed to add files to staging",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "MainThread",
+  "process_id": 93015,
+  "context": null,
+  "exception": "Traceback (most recent call last):\n  File \"/Users/arif/Desktop/auto_commit_programs/Bakalimm/.autocommit-pro/auto_git_manager.py\", line 120, in add_files\n    self.repo.git.add(A=True)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1003, in <lambda>\n    return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1616, in _call_process\n    return self.execute(call, **exec_kwargs)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1406, in execute\n    raise GitCommandError(redacted_command, status, stderr_value, stdout_value)\ngit.exc.GitCommandError: Cmd('git') failed due to: exit code(128)\n  cmdline: git add -A\n  stderr: 'error: '.autocommit-pro/' does not have a commit checked out\nfatal: adding files failed'\n",
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:26:22.451164",
+  "level": "INFO",
+  "message": "Connected to git repository: /Users/arif/Desktop/auto_commit_programs/Bakalimm",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 93268,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:26:22.452550",
+  "level": "INFO",
+  "message": "File monitoring callback registered",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 93268,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:26:22.452827",
+  "level": "INFO",
+  "message": "Scheduled tasks configured",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 93268,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:26:22.453128",
+  "level": "INFO",
+  "message": "AutoGitManager initialized for: /Users/arif/Desktop/auto_commit_programs/Bakalimm/.autocommit-pro",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 93268,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:26:22.563910",
+  "level": "ERROR",
+  "message": "Failed to add files to staging",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "MainThread",
+  "process_id": 93268,
+  "context": null,
+  "exception": "Traceback (most recent call last):\n  File \"/Users/arif/Desktop/auto_commit_programs/Bakalimm/.autocommit-pro/auto_git_manager.py\", line 120, in add_files\n    self.repo.git.add(A=True)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1003, in <lambda>\n    return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1616, in _call_process\n    return self.execute(call, **exec_kwargs)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1406, in execute\n    raise GitCommandError(redacted_command, status, stderr_value, stdout_value)\ngit.exc.GitCommandError: Cmd('git') failed due to: exit code(128)\n  cmdline: git add -A\n  stderr: 'error: '.autocommit-pro/' does not have a commit checked out\nfatal: adding files failed'\n",
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:28:38.497222",
+  "level": "INFO",
+  "message": "Connected to git repository: /Users/arif/Desktop/auto_commit_programs/Bakalimm",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 94562,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:28:38.498257",
+  "level": "INFO",
+  "message": "File monitoring callback registered",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 94562,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:28:38.498456",
+  "level": "INFO",
+  "message": "Scheduled tasks configured",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 94562,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:28:38.498749",
+  "level": "INFO",
+  "message": "AutoGitManager initialized for: /Users/arif/Desktop/auto_commit_programs/Bakalimm",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 94562,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:35:02.394114",
+  "level": "INFO",
+  "message": "Connected to git repository: /Users/arif/Desktop/auto_commit_programs/Bakalimm",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 99232,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:35:02.395030",
+  "level": "INFO",
+  "message": "File monitoring callback registered",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 99232,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:35:02.395249",
+  "level": "INFO",
+  "message": "Scheduled tasks configured",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 99232,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:35:02.395522",
+  "level": "INFO",
+  "message": "AutoGitManager initialized for: /Users/arif/Desktop/auto_commit_programs/Bakalimm",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 99232,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:35:02.501233",
+  "level": "ERROR",
+  "message": "Failed to add files to staging",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "MainThread",
+  "process_id": 99232,
+  "context": null,
+  "exception": "Traceback (most recent call last):\n  File \"/Users/arif/Desktop/auto_commit_programs/Bakalimm/.autocommit-pro/auto_git_manager.py\", line 120, in add_files\n    self.repo.git.add(A=True)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1003, in <lambda>\n    return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1616, in _call_process\n    return self.execute(call, **exec_kwargs)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1406, in execute\n    raise GitCommandError(redacted_command, status, stderr_value, stdout_value)\ngit.exc.GitCommandError: Cmd('git') failed due to: exit code(128)\n  cmdline: git add -A\n  stderr: 'error: '.autocommit-pro/' does not have a commit checked out\nfatal: adding files failed'\n",
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:35:20.485329",
+  "level": "INFO",
+  "message": "Connected to git repository: /Users/arif/Desktop/auto_commit_programs/Bakalimm",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 99500,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:35:20.486360",
+  "level": "INFO",
+  "message": "File monitoring callback registered",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 99500,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:35:20.486680",
+  "level": "INFO",
+  "message": "Scheduled tasks configured",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 99500,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:35:20.486917",
+  "level": "INFO",
+  "message": "AutoGitManager initialized for: /Users/arif/Desktop/auto_commit_programs/Bakalimm",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 99500,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:35:20.594891",
+  "level": "INFO",
+  "message": "Added all files to staging area",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 99500,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:35:20.624708",
+  "level": "SUCCESS",
+  "message": "Created commit: 2e69ee1a - test: Test commit after adding .autocommit-pro to ...",
+  "module": "logger",
+  "function": "success",
+  "line_number": 370,
+  "thread_id": "MainThread",
+  "process_id": 99500,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:36:10.318338",
+  "level": "INFO",
+  "message": "Connected to git repository: /Users/arif/Desktop/auto_commit_programs/Bakalimm",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 498,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:36:10.319448",
+  "level": "INFO",
+  "message": "File monitoring callback registered",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 498,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:36:10.319706",
+  "level": "INFO",
+  "message": "Scheduled tasks configured",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 498,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:36:10.320121",
+  "level": "INFO",
+  "message": "AutoGitManager initialized for: /Users/arif/Desktop/auto_commit_programs/Bakalimm",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 498,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:36:10.415841",
+  "level": "INFO",
+  "message": "Added all files to staging area",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 498,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:36:10.443428",
+  "level": "SUCCESS",
+  "message": "Created commit: 86722079 - test: Final test of working system...",
+  "module": "logger",
+  "function": "success",
+  "line_number": 370,
+  "thread_id": "MainThread",
+  "process_id": 498,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:37:14.555633",
+  "level": "INFO",
+  "message": "Connected to git repository: /Users/arif/Desktop/auto_commit_programs/Bakalimm",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 887,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:37:14.556663",
+  "level": "INFO",
+  "message": "File monitoring callback registered",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 887,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:37:14.556911",
+  "level": "INFO",
+  "message": "Scheduled tasks configured",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 887,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:37:14.557160",
+  "level": "INFO",
+  "message": "AutoGitManager initialized for: /Users/arif/Desktop/auto_commit_programs/Bakalimm",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 887,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:38:44.573861",
+  "level": "INFO",
+  "message": "Connected to git repository: /Users/arif/Desktop/auto_commit_programs/Bakalimm",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 1456,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:38:44.574983",
+  "level": "INFO",
+  "message": "File monitoring callback registered",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 1456,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:38:44.575303",
+  "level": "INFO",
+  "message": "Scheduled tasks configured",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 1456,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:38:44.575551",
+  "level": "INFO",
+  "message": "AutoGitManager initialized for: /Users/arif/Desktop/auto_commit_programs/Bakalimm",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 1456,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:39:46.964432",
+  "level": "INFO",
+  "message": "Connected to git repository: /Users/arif/Desktop/auto_commit_programs/Bakalimm",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 1757,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:39:46.965782",
+  "level": "INFO",
+  "message": "File monitoring callback registered",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 1757,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:39:46.966077",
+  "level": "INFO",
+  "message": "Scheduled tasks configured",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 1757,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:39:46.966347",
+  "level": "INFO",
+  "message": "AutoGitManager initialized for: /Users/arif/Desktop/auto_commit_programs/Bakalimm",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 1757,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:40:47.983532",
+  "level": "INFO",
+  "message": "Connected to git repository: /Users/arif/Desktop/auto_commit_programs/Bakalimm",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 2000,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:40:47.985551",
+  "level": "INFO",
+  "message": "File monitoring callback registered",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 2000,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:40:47.988050",
+  "level": "INFO",
+  "message": "Scheduled tasks configured",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 2000,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:40:47.989409",
+  "level": "INFO",
+  "message": "AutoGitManager initialized for: /Users/arif/Desktop/auto_commit_programs/Bakalimm",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 2000,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:41:31.697663",
+  "level": "INFO",
+  "message": "Connected to git repository: /Users/arif/Desktop/auto_commit_programs/Bakalimm",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 2628,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:41:31.703902",
+  "level": "INFO",
+  "message": "File monitoring callback registered",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 2628,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:41:31.706196",
+  "level": "INFO",
+  "message": "Scheduled tasks configured",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 2628,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:41:31.708581",
+  "level": "INFO",
+  "message": "AutoGitManager initialized for: /Users/arif/Desktop/auto_commit_programs/Bakalimm",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 2628,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:41:31.712034",
+  "level": "CRITICAL",
+  "message": "Failed to start AutoCommit Pro",
+  "module": "logger",
+  "function": "critical",
+  "line_number": 386,
+  "thread_id": "MainThread",
+  "process_id": 2628,
+  "context": null,
+  "exception": "Traceback (most recent call last):\n  File \"/Users/arif/Desktop/auto_commit_programs/Bakalimm/.autocommit-pro/main.py\", line 332, in start\n    self.manager.file_monitor.start()\nAttributeError: 'FileMonitor' object has no attribute 'start'. Did you mean: 'stats'?\n",
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:42:36.025028",
+  "level": "INFO",
+  "message": "Connected to git repository: /Users/arif/Desktop/auto_commit_programs/Bakalimm",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 3141,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:42:36.030833",
+  "level": "INFO",
+  "message": "File monitoring callback registered",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 3141,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:42:36.032439",
+  "level": "INFO",
+  "message": "Scheduled tasks configured",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 3141,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:42:36.033656",
+  "level": "INFO",
+  "message": "AutoGitManager initialized for: /Users/arif/Desktop/auto_commit_programs/Bakalimm",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 3141,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:42:36.041320",
+  "level": "INFO",
+  "message": "🚀 Starting AutoGitManager...",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 3141,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:42:41.597679",
+  "level": "INFO",
+  "message": "Repository status: Branch=main, Dirty=True",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 3141,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:42:41.605017",
+  "level": "CRITICAL",
+  "message": "Failed to start AutoGitManager",
+  "module": "logger",
+  "function": "critical",
+  "line_number": 386,
+  "thread_id": "MainThread",
+  "process_id": 3141,
+  "context": null,
+  "exception": "Traceback (most recent call last):\n  File \"/Users/arif/Desktop/auto_commit_programs/Bakalimm/.autocommit-pro/auto_git_manager.py\", line 443, in start\n    self.file_monitor.start_monitoring()\n  File \"/Users/arif/Desktop/auto_commit_programs/Bakalimm/.autocommit-pro/file_monitor.py\", line 277, in start_monitoring\n    self.observer.start()\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/watchdog/observers/api.py\", line 264, in start\n    emitter.start()\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/watchdog/utils/__init__.py\", line 76, in start\n    threading.Thread.start(self)\n  File \"/Users/arif/anaconda3/lib/python3.10/threading.py\", line 930, in start\n    raise RuntimeError(\"threads can only be started once\")\nRuntimeError: threads can only be started once\n",
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:42:41.608959",
+  "level": "CRITICAL",
+  "message": "Failed to start AutoCommit Pro",
+  "module": "logger",
+  "function": "critical",
+  "line_number": 386,
+  "thread_id": "MainThread",
+  "process_id": 3141,
+  "context": null,
+  "exception": "Traceback (most recent call last):\n  File \"/Users/arif/Desktop/auto_commit_programs/Bakalimm/.autocommit-pro/main.py\", line 334, in start\n    self.manager.start()\n  File \"/Users/arif/Desktop/auto_commit_programs/Bakalimm/.autocommit-pro/auto_git_manager.py\", line 443, in start\n    self.file_monitor.start_monitoring()\n  File \"/Users/arif/Desktop/auto_commit_programs/Bakalimm/.autocommit-pro/file_monitor.py\", line 277, in start_monitoring\n    self.observer.start()\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/watchdog/observers/api.py\", line 264, in start\n    emitter.start()\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/watchdog/utils/__init__.py\", line 76, in start\n    threading.Thread.start(self)\n  File \"/Users/arif/anaconda3/lib/python3.10/threading.py\", line 930, in start\n    raise RuntimeError(\"threads can only be started once\")\nRuntimeError: threads can only be started once\n",
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:43:38.953389",
+  "level": "INFO",
+  "message": "Connected to git repository: /Users/arif/Desktop/auto_commit_programs/Bakalimm",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 3755,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:43:38.955332",
+  "level": "INFO",
+  "message": "File monitoring callback registered",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 3755,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:43:38.956884",
+  "level": "INFO",
+  "message": "Scheduled tasks configured",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 3755,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:43:38.958150",
+  "level": "INFO",
+  "message": "AutoGitManager initialized for: /Users/arif/Desktop/auto_commit_programs/Bakalimm",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 3755,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:43:38.959768",
+  "level": "INFO",
+  "message": "🚀 Starting AutoGitManager...",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 3755,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:43:39.932105",
+  "level": "INFO",
+  "message": "Repository status: Branch=main, Dirty=True",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 3755,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:43:39.938858",
+  "level": "INFO",
+  "message": "Scheduler thread started",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 3755,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:43:39.940504",
+  "level": "SUCCESS",
+  "message": "AutoGitManager started successfully!",
+  "module": "logger",
+  "function": "success",
+  "line_number": 370,
+  "thread_id": "MainThread",
+  "process_id": 3755,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:44:13.021568",
+  "level": "DEBUG",
+  "message": "Processing 1 file changes",
+  "module": "logger",
+  "function": "debug",
+  "line_number": 362,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 3755,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:45:33.170949",
+  "level": "DEBUG",
+  "message": "Processing 1 file changes",
+  "module": "logger",
+  "function": "debug",
+  "line_number": 362,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 3755,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:45:45.189403",
+  "level": "DEBUG",
+  "message": "Processing 1 file changes",
+  "module": "logger",
+  "function": "debug",
+  "line_number": 362,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 3755,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:45:59.222458",
+  "level": "DEBUG",
+  "message": "Processing 1 file changes",
+  "module": "logger",
+  "function": "debug",
+  "line_number": 362,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 3755,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:46:00.123901",
+  "level": "DEBUG",
+  "message": "Processing 5 file changes",
+  "module": "logger",
+  "function": "debug",
+  "line_number": 362,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 3755,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:46:00.135642",
+  "level": "INFO",
+  "message": "Starting auto-commit for 8 changed files",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 3755,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:46:02.443287",
+  "level": "INFO",
+  "message": "Added all files to staging area",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 3755,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:46:02.460931",
+  "level": "SUCCESS",
+  "message": "Created commit: 1fe713c2 - ```\nYapılandırma ve dokümantasyon güncellemelerini...",
+  "module": "logger",
+  "function": "success",
+  "line_number": 370,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 3755,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:46:02.465678",
+  "level": "SUCCESS",
+  "message": "Auto-commit successful: Commit created: 1fe713c2",
+  "module": "logger",
+  "function": "success",
+  "line_number": 370,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 3755,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:46:02.470401",
+  "level": "INFO",
+  "message": "Starting auto-push to remote repository",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 3755,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T22:46:03.454974",
+  "level": "WARNING",
+  "message": "Auto-push failed: No commits to push",
+  "module": "logger",
+  "function": "warning",
+  "line_number": 374,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 3755,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:09:48.741715",
+  "level": "INFO",
+  "message": "Connected to git repository: /Users/arif/Desktop/auto_commit_programs/hadi",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 15621,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:09:48.746097",
+  "level": "INFO",
+  "message": "File monitoring callback registered",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 15621,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:09:48.748521",
+  "level": "INFO",
+  "message": "Scheduled tasks configured",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 15621,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:09:48.750239",
+  "level": "INFO",
+  "message": "AutoGitManager initialized for: /Users/arif/Desktop/auto_commit_programs/hadi",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 15621,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:09:48.751973",
+  "level": "INFO",
+  "message": "🚀 Starting AutoGitManager...",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 15621,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:09:50.629835",
+  "level": "INFO",
+  "message": "Repository status: Branch=main, Dirty=False",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 15621,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:09:50.635948",
+  "level": "INFO",
+  "message": "Scheduler thread started",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 15621,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:09:50.637104",
+  "level": "SUCCESS",
+  "message": "AutoGitManager started successfully!",
+  "module": "logger",
+  "function": "success",
+  "line_number": 370,
+  "thread_id": "MainThread",
+  "process_id": 15621,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:10:04.770275",
+  "level": "DEBUG",
+  "message": "Processing 1 file changes",
+  "module": "logger",
+  "function": "debug",
+  "line_number": 362,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 15621,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:10:04.777735",
+  "level": "INFO",
+  "message": "Starting auto-commit for 1 changed files",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 15621,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:10:07.324748",
+  "level": "ERROR",
+  "message": "Failed to add files to staging",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 15621,
+  "context": null,
+  "exception": "Traceback (most recent call last):\n  File \"/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py\", line 120, in add_files\n    self.repo.git.add(A=True)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1003, in <lambda>\n    return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1616, in _call_process\n    return self.execute(call, **exec_kwargs)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1406, in execute\n    raise GitCommandError(redacted_command, status, stderr_value, stdout_value)\ngit.exc.GitCommandError: Cmd('git') failed due to: exit code(128)\n  cmdline: git add -A\n  stderr: 'error: '.autocommit-pro/' does not have a commit checked out\nfatal: adding files failed'\n",
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:10:07.333473",
+  "level": "ERROR",
+  "message": "Auto-commit failed: Failed to add files: Cmd('git') failed due to: exit code(128)\n  cmdline: git add -A\n  stderr: 'error: '.autocommit-pro/' does not have a commit checked out\nfatal: adding files failed'",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 15621,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:10:10.647532",
+  "level": "DEBUG",
+  "message": "Processing 1 file changes",
+  "module": "logger",
+  "function": "debug",
+  "line_number": 362,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 15621,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:10:10.651915",
+  "level": "INFO",
+  "message": "Starting auto-commit for 2 changed files",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 15621,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:10:12.547482",
+  "level": "ERROR",
+  "message": "Failed to add files to staging",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 15621,
+  "context": null,
+  "exception": "Traceback (most recent call last):\n  File \"/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py\", line 120, in add_files\n    self.repo.git.add(A=True)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1003, in <lambda>\n    return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1616, in _call_process\n    return self.execute(call, **exec_kwargs)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1406, in execute\n    raise GitCommandError(redacted_command, status, stderr_value, stdout_value)\ngit.exc.GitCommandError: Cmd('git') failed due to: exit code(128)\n  cmdline: git add -A\n  stderr: 'error: '.autocommit-pro/' does not have a commit checked out\nfatal: adding files failed'\n",
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:10:12.556272",
+  "level": "ERROR",
+  "message": "Auto-commit failed: Failed to add files: Cmd('git') failed due to: exit code(128)\n  cmdline: git add -A\n  stderr: 'error: '.autocommit-pro/' does not have a commit checked out\nfatal: adding files failed'",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 15621,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:10:15.652768",
+  "level": "DEBUG",
+  "message": "Processing 1 file changes",
+  "module": "logger",
+  "function": "debug",
+  "line_number": 362,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 15621,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:10:15.657307",
+  "level": "INFO",
+  "message": "Starting auto-commit for 3 changed files",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 15621,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:10:17.554291",
+  "level": "ERROR",
+  "message": "Failed to add files to staging",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 15621,
+  "context": null,
+  "exception": "Traceback (most recent call last):\n  File \"/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py\", line 120, in add_files\n    self.repo.git.add(A=True)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1003, in <lambda>\n    return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1616, in _call_process\n    return self.execute(call, **exec_kwargs)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1406, in execute\n    raise GitCommandError(redacted_command, status, stderr_value, stdout_value)\ngit.exc.GitCommandError: Cmd('git') failed due to: exit code(128)\n  cmdline: git add -A\n  stderr: 'error: '.autocommit-pro/' does not have a commit checked out\nfatal: adding files failed'\n",
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:10:17.562658",
+  "level": "ERROR",
+  "message": "Auto-commit failed: Failed to add files: Cmd('git') failed due to: exit code(128)\n  cmdline: git add -A\n  stderr: 'error: '.autocommit-pro/' does not have a commit checked out\nfatal: adding files failed'",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 15621,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:10:20.658261",
+  "level": "DEBUG",
+  "message": "Processing 1 file changes",
+  "module": "logger",
+  "function": "debug",
+  "line_number": 362,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 15621,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:10:20.668531",
+  "level": "INFO",
+  "message": "Starting auto-commit for 4 changed files",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 15621,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:10:22.892516",
+  "level": "ERROR",
+  "message": "Failed to add files to staging",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 15621,
+  "context": null,
+  "exception": "Traceback (most recent call last):\n  File \"/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py\", line 120, in add_files\n    self.repo.git.add(A=True)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1003, in <lambda>\n    return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1616, in _call_process\n    return self.execute(call, **exec_kwargs)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1406, in execute\n    raise GitCommandError(redacted_command, status, stderr_value, stdout_value)\ngit.exc.GitCommandError: Cmd('git') failed due to: exit code(128)\n  cmdline: git add -A\n  stderr: 'error: '.autocommit-pro/' does not have a commit checked out\nfatal: adding files failed'\n",
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:10:22.904936",
+  "level": "ERROR",
+  "message": "Auto-commit failed: Failed to add files: Cmd('git') failed due to: exit code(128)\n  cmdline: git add -A\n  stderr: 'error: '.autocommit-pro/' does not have a commit checked out\nfatal: adding files failed'",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 15621,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:10:25.658915",
+  "level": "DEBUG",
+  "message": "Processing 1 file changes",
+  "module": "logger",
+  "function": "debug",
+  "line_number": 362,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 15621,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:10:25.664741",
+  "level": "INFO",
+  "message": "Starting auto-commit for 5 changed files",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 15621,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:10:27.607429",
+  "level": "ERROR",
+  "message": "Failed to add files to staging",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 15621,
+  "context": null,
+  "exception": "Traceback (most recent call last):\n  File \"/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py\", line 120, in add_files\n    self.repo.git.add(A=True)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1003, in <lambda>\n    return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1616, in _call_process\n    return self.execute(call, **exec_kwargs)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1406, in execute\n    raise GitCommandError(redacted_command, status, stderr_value, stdout_value)\ngit.exc.GitCommandError: Cmd('git') failed due to: exit code(128)\n  cmdline: git add -A\n  stderr: 'error: '.autocommit-pro/' does not have a commit checked out\nfatal: adding files failed'\n",
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:10:27.619400",
+  "level": "ERROR",
+  "message": "Auto-commit failed: Failed to add files: Cmd('git') failed due to: exit code(128)\n  cmdline: git add -A\n  stderr: 'error: '.autocommit-pro/' does not have a commit checked out\nfatal: adding files failed'",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 15621,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:10:34.847943",
+  "level": "DEBUG",
+  "message": "Processing 1 file changes",
+  "module": "logger",
+  "function": "debug",
+  "line_number": 362,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 15621,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:10:34.852921",
+  "level": "INFO",
+  "message": "Starting auto-commit for 6 changed files",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 15621,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:10:36.739901",
+  "level": "ERROR",
+  "message": "Failed to add files to staging",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 15621,
+  "context": null,
+  "exception": "Traceback (most recent call last):\n  File \"/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py\", line 120, in add_files\n    self.repo.git.add(A=True)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1003, in <lambda>\n    return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1616, in _call_process\n    return self.execute(call, **exec_kwargs)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1406, in execute\n    raise GitCommandError(redacted_command, status, stderr_value, stdout_value)\ngit.exc.GitCommandError: Cmd('git') failed due to: exit code(128)\n  cmdline: git add -A\n  stderr: 'error: '.autocommit-pro/' does not have a commit checked out\nfatal: adding files failed'\n",
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:10:36.751635",
+  "level": "ERROR",
+  "message": "Auto-commit failed: Failed to add files: Cmd('git') failed due to: exit code(128)\n  cmdline: git add -A\n  stderr: 'error: '.autocommit-pro/' does not have a commit checked out\nfatal: adding files failed'",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 15621,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:10:48.910928",
+  "level": "INFO",
+  "message": "🛑 Stopping AutoGitManager...",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 15621,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:10:48.915313",
+  "level": "INFO",
+  "message": "Committing pending changes before shutdown...",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 15621,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:10:48.920078",
+  "level": "INFO",
+  "message": "Starting auto-commit for 6 changed files",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 15621,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:10:50.641750",
+  "level": "ERROR",
+  "message": "Failed to create commit",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "MainThread",
+  "process_id": 15621,
+  "context": null,
+  "exception": "Traceback (most recent call last):\n  File \"/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py\", line 142, in commit\n    if not self.repo.index.diff(\"HEAD\"):\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/index/base.py\", line 1517, in diff\n    other = self.repo.rev_parse(other)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py\", line 415, in rev_parse\n    obj = name_to_object(repo, rev)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py\", line 205, in name_to_object\n    return Object.new_from_sha(repo, hex_to_bin(hexsha))\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/objects/base.py\", line 149, in new_from_sha\n    oinfo = repo.odb.info(sha1)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/db.py\", line 41, in info\n    hexsha, typename, size = self._git.get_object_header(bin_to_hex(binsha))\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1696, in get_object_header\n    return self.__get_object_header(cmd, ref)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1679, in __get_object_header\n    cmd.stdin.flush()\nBrokenPipeError: [Errno 32] Broken pipe\n",
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:10:50.653246",
+  "level": "ERROR",
+  "message": "Auto-commit failed: Commit failed: [Errno 32] Broken pipe",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "MainThread",
+  "process_id": 15621,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:10:50.666779",
+  "level": "INFO",
+  "message": "Final push before shutdown...",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 15621,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:10:50.670999",
+  "level": "INFO",
+  "message": "Starting auto-push to remote repository",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 15621,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:10:50.746093",
+  "level": "ERROR",
+  "message": "Failed to get repository status",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "MainThread",
+  "process_id": 15621,
+  "context": null,
+  "exception": "Traceback (most recent call last):\n  File \"/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py\", line 85, in get_status\n    'staged_files': [item.a_path for item in self.repo.index.diff(\"HEAD\")],\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/index/base.py\", line 1517, in diff\n    other = self.repo.rev_parse(other)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py\", line 415, in rev_parse\n    obj = name_to_object(repo, rev)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py\", line 205, in name_to_object\n    return Object.new_from_sha(repo, hex_to_bin(hexsha))\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/objects/base.py\", line 149, in new_from_sha\n    oinfo = repo.odb.info(sha1)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/db.py\", line 41, in info\n    hexsha, typename, size = self._git.get_object_header(bin_to_hex(binsha))\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1696, in get_object_header\n    return self.__get_object_header(cmd, ref)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1679, in __get_object_header\n    cmd.stdin.flush()\nBrokenPipeError: [Errno 32] Broken pipe\n",
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:10:50.761203",
+  "level": "WARNING",
+  "message": "Auto-push failed: No commits to push",
+  "module": "logger",
+  "function": "warning",
+  "line_number": 374,
+  "thread_id": "MainThread",
+  "process_id": 15621,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:10:50.767468",
+  "level": "SUCCESS",
+  "message": "AutoGitManager stopped successfully!",
+  "module": "logger",
+  "function": "success",
+  "line_number": 370,
+  "thread_id": "MainThread",
+  "process_id": 15621,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:11:16.091212",
+  "level": "INFO",
+  "message": "Connected to git repository: /Users/arif/Desktop/auto_commit_programs/hadi",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 16473,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:11:16.095147",
+  "level": "INFO",
+  "message": "File monitoring callback registered",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 16473,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:11:16.098150",
+  "level": "INFO",
+  "message": "Scheduled tasks configured",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 16473,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:11:16.100218",
+  "level": "INFO",
+  "message": "AutoGitManager initialized for: /Users/arif/Desktop/auto_commit_programs/hadi",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 16473,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:11:16.102010",
+  "level": "INFO",
+  "message": "🚀 Starting AutoGitManager...",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 16473,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:11:18.117149",
+  "level": "INFO",
+  "message": "Repository status: Branch=main, Dirty=False",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 16473,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:11:18.122014",
+  "level": "INFO",
+  "message": "Scheduler thread started",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 16473,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:11:18.123246",
+  "level": "SUCCESS",
+  "message": "AutoGitManager started successfully!",
+  "module": "logger",
+  "function": "success",
+  "line_number": 370,
+  "thread_id": "MainThread",
+  "process_id": 16473,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:11:34.121748",
+  "level": "DEBUG",
+  "message": "Processing 1 file changes",
+  "module": "logger",
+  "function": "debug",
+  "line_number": 362,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 16473,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:11:34.126286",
+  "level": "INFO",
+  "message": "Starting auto-commit for 1 changed files",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 16473,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:11:36.148315",
+  "level": "ERROR",
+  "message": "Failed to add files to staging",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 16473,
+  "context": null,
+  "exception": "Traceback (most recent call last):\n  File \"/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py\", line 120, in add_files\n    self.repo.git.add(A=True)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1003, in <lambda>\n    return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1616, in _call_process\n    return self.execute(call, **exec_kwargs)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1406, in execute\n    raise GitCommandError(redacted_command, status, stderr_value, stdout_value)\ngit.exc.GitCommandError: Cmd('git') failed due to: exit code(128)\n  cmdline: git add -A\n  stderr: 'error: '.autocommit-pro/' does not have a commit checked out\nfatal: adding files failed'\n",
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:11:36.161225",
+  "level": "ERROR",
+  "message": "Auto-commit failed: Failed to add files: Cmd('git') failed due to: exit code(128)\n  cmdline: git add -A\n  stderr: 'error: '.autocommit-pro/' does not have a commit checked out\nfatal: adding files failed'",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 16473,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:11:40.141317",
+  "level": "DEBUG",
+  "message": "Processing 1 file changes",
+  "module": "logger",
+  "function": "debug",
+  "line_number": 362,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 16473,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:11:40.156804",
+  "level": "INFO",
+  "message": "Starting auto-commit for 2 changed files",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 16473,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:11:42.206563",
+  "level": "ERROR",
+  "message": "Failed to add files to staging",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 16473,
+  "context": null,
+  "exception": "Traceback (most recent call last):\n  File \"/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py\", line 120, in add_files\n    self.repo.git.add(A=True)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1003, in <lambda>\n    return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1616, in _call_process\n    return self.execute(call, **exec_kwargs)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1406, in execute\n    raise GitCommandError(redacted_command, status, stderr_value, stdout_value)\ngit.exc.GitCommandError: Cmd('git') failed due to: exit code(128)\n  cmdline: git add -A\n  stderr: 'error: '.autocommit-pro/' does not have a commit checked out\nfatal: adding files failed'\n",
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:11:42.215598",
+  "level": "ERROR",
+  "message": "Auto-commit failed: Failed to add files: Cmd('git') failed due to: exit code(128)\n  cmdline: git add -A\n  stderr: 'error: '.autocommit-pro/' does not have a commit checked out\nfatal: adding files failed'",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 16473,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:12:00.844563",
+  "level": "DEBUG",
+  "message": "Processing 1 file changes",
+  "module": "logger",
+  "function": "debug",
+  "line_number": 362,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 16473,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:12:00.852015",
+  "level": "INFO",
+  "message": "Starting auto-commit for 3 changed files",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 16473,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:12:02.627565",
+  "level": "ERROR",
+  "message": "Failed to add files to staging",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 16473,
+  "context": null,
+  "exception": "Traceback (most recent call last):\n  File \"/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py\", line 120, in add_files\n    self.repo.git.add(A=True)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1003, in <lambda>\n    return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1616, in _call_process\n    return self.execute(call, **exec_kwargs)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1406, in execute\n    raise GitCommandError(redacted_command, status, stderr_value, stdout_value)\ngit.exc.GitCommandError: Cmd('git') failed due to: exit code(128)\n  cmdline: git add -A\n  stderr: 'error: '.autocommit-pro/' does not have a commit checked out\nfatal: adding files failed'\n",
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:12:02.636855",
+  "level": "ERROR",
+  "message": "Auto-commit failed: Failed to add files: Cmd('git') failed due to: exit code(128)\n  cmdline: git add -A\n  stderr: 'error: '.autocommit-pro/' does not have a commit checked out\nfatal: adding files failed'",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 16473,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:12:03.899675",
+  "level": "INFO",
+  "message": "🛑 Stopping AutoGitManager...",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 16473,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:12:03.905367",
+  "level": "INFO",
+  "message": "Committing pending changes before shutdown...",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 16473,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:12:03.910088",
+  "level": "INFO",
+  "message": "Starting auto-commit for 3 changed files",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 16473,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:12:04.018188",
+  "level": "ERROR",
+  "message": "Failed to get repository status",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "Thread-14 (scheduler_loop)",
+  "process_id": 16473,
+  "context": null,
+  "exception": "Traceback (most recent call last):\n  File \"/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py\", line 85, in get_status\n    'staged_files': [item.a_path for item in self.repo.index.diff(\"HEAD\")],\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/index/base.py\", line 1517, in diff\n    other = self.repo.rev_parse(other)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py\", line 415, in rev_parse\n    obj = name_to_object(repo, rev)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py\", line 205, in name_to_object\n    return Object.new_from_sha(repo, hex_to_bin(hexsha))\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/objects/base.py\", line 149, in new_from_sha\n    oinfo = repo.odb.info(sha1)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/db.py\", line 41, in info\n    hexsha, typename, size = self._git.get_object_header(bin_to_hex(binsha))\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1696, in get_object_header\n    return self.__get_object_header(cmd, ref)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1679, in __get_object_header\n    cmd.stdin.flush()\nBrokenPipeError: [Errno 32] Broken pipe\n",
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:12:41.407991",
+  "level": "INFO",
+  "message": "Connected to git repository: /Users/arif/Desktop/auto_commit_programs/hadi",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 17280,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:12:41.412227",
+  "level": "INFO",
+  "message": "File monitoring callback registered",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 17280,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:12:41.415045",
+  "level": "INFO",
+  "message": "Scheduled tasks configured",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 17280,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:12:41.417024",
+  "level": "INFO",
+  "message": "AutoGitManager initialized for: /Users/arif/Desktop/auto_commit_programs/hadi",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 17280,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:12:41.418798",
+  "level": "INFO",
+  "message": "🚀 Starting AutoGitManager...",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 17280,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:12:43.434840",
+  "level": "INFO",
+  "message": "Repository status: Branch=main, Dirty=False",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 17280,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:12:43.441034",
+  "level": "INFO",
+  "message": "Scheduler thread started",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 17280,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:12:43.442482",
+  "level": "SUCCESS",
+  "message": "AutoGitManager started successfully!",
+  "module": "logger",
+  "function": "success",
+  "line_number": 370,
+  "thread_id": "MainThread",
+  "process_id": 17280,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:12:57.495125",
+  "level": "DEBUG",
+  "message": "Processing 1 file changes",
+  "module": "logger",
+  "function": "debug",
+  "line_number": 362,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 17280,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:12:57.500119",
+  "level": "INFO",
+  "message": "Starting auto-commit for 1 changed files",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 17280,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:12:59.651115",
+  "level": "ERROR",
+  "message": "Failed to add files to staging",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 17280,
+  "context": null,
+  "exception": "Traceback (most recent call last):\n  File \"/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py\", line 120, in add_files\n    self.repo.git.add(A=True)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1003, in <lambda>\n    return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1616, in _call_process\n    return self.execute(call, **exec_kwargs)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1406, in execute\n    raise GitCommandError(redacted_command, status, stderr_value, stdout_value)\ngit.exc.GitCommandError: Cmd('git') failed due to: exit code(128)\n  cmdline: git add -A\n  stderr: 'error: '.autocommit-pro/' does not have a commit checked out\nfatal: adding files failed'\n",
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:12:59.660335",
+  "level": "ERROR",
+  "message": "Auto-commit failed: Failed to add files: Cmd('git') failed due to: exit code(128)\n  cmdline: git add -A\n  stderr: 'error: '.autocommit-pro/' does not have a commit checked out\nfatal: adding files failed'",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 17280,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:13:09.885477",
+  "level": "INFO",
+  "message": "🛑 Stopping AutoGitManager...",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 17280,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:13:09.890482",
+  "level": "INFO",
+  "message": "Committing pending changes before shutdown...",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 17280,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:13:09.894468",
+  "level": "INFO",
+  "message": "Starting auto-commit for 1 changed files",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 17280,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:13:09.897963",
+  "level": "ERROR",
+  "message": "Failed to get repository status",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "Thread-14 (scheduler_loop)",
+  "process_id": 17280,
+  "context": null,
+  "exception": "Traceback (most recent call last):\n  File \"/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py\", line 88, in get_status\n    'hash': self.repo.head.commit.hexsha[:8],\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/refs/symbolic.py\", line 392, in commit\n    return self._get_commit()\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/refs/symbolic.py\", line 296, in _get_commit\n    obj = self._get_object()\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/refs/symbolic.py\", line 287, in _get_object\n    return Object.new_from_sha(self.repo, hex_to_bin(self.dereference_recursive(self.repo, self.path)))\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/objects/base.py\", line 149, in new_from_sha\n    oinfo = repo.odb.info(sha1)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/db.py\", line 41, in info\n    hexsha, typename, size = self._git.get_object_header(bin_to_hex(binsha))\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1696, in get_object_header\n    return self.__get_object_header(cmd, ref)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1679, in __get_object_header\n    cmd.stdin.flush()\nBrokenPipeError: [Errno 32] Broken pipe\n",
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:13:11.907589",
+  "level": "ERROR",
+  "message": "Failed to create commit",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "MainThread",
+  "process_id": 17280,
+  "context": null,
+  "exception": "Traceback (most recent call last):\n  File \"/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py\", line 142, in commit\n    if not self.repo.index.diff(\"HEAD\"):\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/index/base.py\", line 1517, in diff\n    other = self.repo.rev_parse(other)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py\", line 415, in rev_parse\n    obj = name_to_object(repo, rev)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py\", line 205, in name_to_object\n    return Object.new_from_sha(repo, hex_to_bin(hexsha))\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/objects/base.py\", line 149, in new_from_sha\n    oinfo = repo.odb.info(sha1)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/db.py\", line 41, in info\n    hexsha, typename, size = self._git.get_object_header(bin_to_hex(binsha))\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1696, in get_object_header\n    return self.__get_object_header(cmd, ref)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1679, in __get_object_header\n    cmd.stdin.flush()\nBrokenPipeError: [Errno 32] Broken pipe\n",
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:13:11.917927",
+  "level": "ERROR",
+  "message": "Auto-commit failed: Commit failed: [Errno 32] Broken pipe",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "MainThread",
+  "process_id": 17280,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:13:11.933734",
+  "level": "INFO",
+  "message": "Final push before shutdown...",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 17280,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:13:11.937677",
+  "level": "INFO",
+  "message": "Starting auto-push to remote repository",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 17280,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:13:12.010812",
+  "level": "ERROR",
+  "message": "Failed to get repository status",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "MainThread",
+  "process_id": 17280,
+  "context": null,
+  "exception": "Traceback (most recent call last):\n  File \"/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py\", line 85, in get_status\n    'staged_files': [item.a_path for item in self.repo.index.diff(\"HEAD\")],\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/index/base.py\", line 1517, in diff\n    other = self.repo.rev_parse(other)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py\", line 415, in rev_parse\n    obj = name_to_object(repo, rev)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py\", line 205, in name_to_object\n    return Object.new_from_sha(repo, hex_to_bin(hexsha))\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/objects/base.py\", line 149, in new_from_sha\n    oinfo = repo.odb.info(sha1)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/db.py\", line 41, in info\n    hexsha, typename, size = self._git.get_object_header(bin_to_hex(binsha))\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1696, in get_object_header\n    return self.__get_object_header(cmd, ref)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1679, in __get_object_header\n    cmd.stdin.flush()\nBrokenPipeError: [Errno 32] Broken pipe\n",
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:13:12.019827",
+  "level": "WARNING",
+  "message": "Auto-push failed: No commits to push",
+  "module": "logger",
+  "function": "warning",
+  "line_number": 374,
+  "thread_id": "MainThread",
+  "process_id": 17280,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:13:12.024244",
+  "level": "SUCCESS",
+  "message": "AutoGitManager stopped successfully!",
+  "module": "logger",
+  "function": "success",
+  "line_number": 370,
+  "thread_id": "MainThread",
+  "process_id": 17280,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:13:44.749125",
+  "level": "INFO",
+  "message": "Connected to git repository: /Users/arif/Desktop/auto_commit_programs/hadi",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 17876,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:13:44.753749",
+  "level": "INFO",
+  "message": "File monitoring callback registered",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 17876,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:13:44.756283",
+  "level": "INFO",
+  "message": "Scheduled tasks configured",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 17876,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:13:44.758361",
+  "level": "INFO",
+  "message": "AutoGitManager initialized for: /Users/arif/Desktop/auto_commit_programs/hadi",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 17876,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:13:44.760215",
+  "level": "INFO",
+  "message": "🚀 Starting AutoGitManager...",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 17876,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:13:46.942947",
+  "level": "INFO",
+  "message": "Repository status: Branch=main, Dirty=False",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 17876,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:13:46.949235",
+  "level": "INFO",
+  "message": "Scheduler thread started",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 17876,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:13:46.950395",
+  "level": "SUCCESS",
+  "message": "AutoGitManager started successfully!",
+  "module": "logger",
+  "function": "success",
+  "line_number": 370,
+  "thread_id": "MainThread",
+  "process_id": 17876,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:14:08.802387",
+  "level": "DEBUG",
+  "message": "Processing 1 file changes",
+  "module": "logger",
+  "function": "debug",
+  "line_number": 362,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 17876,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:14:08.807009",
+  "level": "INFO",
+  "message": "Starting auto-commit for 1 changed files",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 17876,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:14:11.166166",
+  "level": "ERROR",
+  "message": "Failed to add files to staging",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 17876,
+  "context": null,
+  "exception": "Traceback (most recent call last):\n  File \"/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py\", line 120, in add_files\n    self.repo.git.add(A=True)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1003, in <lambda>\n    return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1616, in _call_process\n    return self.execute(call, **exec_kwargs)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1406, in execute\n    raise GitCommandError(redacted_command, status, stderr_value, stdout_value)\ngit.exc.GitCommandError: Cmd('git') failed due to: exit code(128)\n  cmdline: git add -A\n  stderr: 'error: '.autocommit-pro/' does not have a commit checked out\nfatal: adding files failed'\n",
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:14:11.174319",
+  "level": "ERROR",
+  "message": "Auto-commit failed: Failed to add files: Cmd('git') failed due to: exit code(128)\n  cmdline: git add -A\n  stderr: 'error: '.autocommit-pro/' does not have a commit checked out\nfatal: adding files failed'",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 17876,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:14:15.237381",
+  "level": "DEBUG",
+  "message": "Processing 1 file changes",
+  "module": "logger",
+  "function": "debug",
+  "line_number": 362,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 17876,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:14:15.241773",
+  "level": "INFO",
+  "message": "Starting auto-commit for 1 changed files",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 17876,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:14:17.228071",
+  "level": "ERROR",
+  "message": "Failed to add files to staging",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 17876,
+  "context": null,
+  "exception": "Traceback (most recent call last):\n  File \"/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py\", line 120, in add_files\n    self.repo.git.add(A=True)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1003, in <lambda>\n    return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1616, in _call_process\n    return self.execute(call, **exec_kwargs)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1406, in execute\n    raise GitCommandError(redacted_command, status, stderr_value, stdout_value)\ngit.exc.GitCommandError: Cmd('git') failed due to: exit code(128)\n  cmdline: git add -A\n  stderr: 'error: '.autocommit-pro/' does not have a commit checked out\nfatal: adding files failed'\n",
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:14:17.241850",
+  "level": "ERROR",
+  "message": "Auto-commit failed: Failed to add files: Cmd('git') failed due to: exit code(128)\n  cmdline: git add -A\n  stderr: 'error: '.autocommit-pro/' does not have a commit checked out\nfatal: adding files failed'",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 17876,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:14:22.195724",
+  "level": "INFO",
+  "message": "🛑 Stopping AutoGitManager...",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 17876,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:14:22.199417",
+  "level": "INFO",
+  "message": "Committing pending changes before shutdown...",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 17876,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:14:22.203233",
+  "level": "INFO",
+  "message": "Starting auto-commit for 1 changed files",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 17876,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:14:24.232082",
+  "level": "ERROR",
+  "message": "Failed to create commit",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "MainThread",
+  "process_id": 17876,
+  "context": null,
+  "exception": "Traceback (most recent call last):\n  File \"/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py\", line 142, in commit\n    if not self.repo.index.diff(\"HEAD\"):\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/index/base.py\", line 1517, in diff\n    other = self.repo.rev_parse(other)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py\", line 415, in rev_parse\n    obj = name_to_object(repo, rev)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py\", line 205, in name_to_object\n    return Object.new_from_sha(repo, hex_to_bin(hexsha))\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/objects/base.py\", line 149, in new_from_sha\n    oinfo = repo.odb.info(sha1)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/db.py\", line 41, in info\n    hexsha, typename, size = self._git.get_object_header(bin_to_hex(binsha))\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1696, in get_object_header\n    return self.__get_object_header(cmd, ref)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1679, in __get_object_header\n    cmd.stdin.flush()\nBrokenPipeError: [Errno 32] Broken pipe\n",
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:14:24.241522",
+  "level": "ERROR",
+  "message": "Auto-commit failed: Commit failed: [Errno 32] Broken pipe",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "MainThread",
+  "process_id": 17876,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:14:24.253300",
+  "level": "INFO",
+  "message": "Final push before shutdown...",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 17876,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:14:24.256959",
+  "level": "INFO",
+  "message": "Starting auto-push to remote repository",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 17876,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:14:24.331485",
+  "level": "ERROR",
+  "message": "Failed to get repository status",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "MainThread",
+  "process_id": 17876,
+  "context": null,
+  "exception": "Traceback (most recent call last):\n  File \"/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py\", line 85, in get_status\n    'staged_files': [item.a_path for item in self.repo.index.diff(\"HEAD\")],\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/index/base.py\", line 1517, in diff\n    other = self.repo.rev_parse(other)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py\", line 415, in rev_parse\n    obj = name_to_object(repo, rev)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py\", line 205, in name_to_object\n    return Object.new_from_sha(repo, hex_to_bin(hexsha))\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/objects/base.py\", line 149, in new_from_sha\n    oinfo = repo.odb.info(sha1)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/db.py\", line 41, in info\n    hexsha, typename, size = self._git.get_object_header(bin_to_hex(binsha))\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1696, in get_object_header\n    return self.__get_object_header(cmd, ref)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1679, in __get_object_header\n    cmd.stdin.flush()\nBrokenPipeError: [Errno 32] Broken pipe\n",
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:14:24.341362",
+  "level": "WARNING",
+  "message": "Auto-push failed: No commits to push",
+  "module": "logger",
+  "function": "warning",
+  "line_number": 374,
+  "thread_id": "MainThread",
+  "process_id": 17876,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:14:24.345274",
+  "level": "SUCCESS",
+  "message": "AutoGitManager stopped successfully!",
+  "module": "logger",
+  "function": "success",
+  "line_number": 370,
+  "thread_id": "MainThread",
+  "process_id": 17876,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:15:31.060789",
+  "level": "INFO",
+  "message": "Connected to git repository: /Users/arif/Desktop/auto_commit_programs/hadi",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 19012,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:15:31.062687",
+  "level": "INFO",
+  "message": "File monitoring callback registered",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 19012,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:15:31.064059",
+  "level": "INFO",
+  "message": "Scheduled tasks configured",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 19012,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:15:31.065339",
+  "level": "INFO",
+  "message": "AutoGitManager initialized for: /Users/arif/Desktop/auto_commit_programs/hadi",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 19012,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:15:31.066549",
+  "level": "INFO",
+  "message": "🚀 Starting AutoGitManager...",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 19012,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:15:33.069374",
+  "level": "INFO",
+  "message": "Repository status: Branch=main, Dirty=False",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 19012,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:15:33.076034",
+  "level": "INFO",
+  "message": "Scheduler thread started",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 19012,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:15:33.077445",
+  "level": "SUCCESS",
+  "message": "AutoGitManager started successfully!",
+  "module": "logger",
+  "function": "success",
+  "line_number": 370,
+  "thread_id": "MainThread",
+  "process_id": 19012,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:15:57.115562",
+  "level": "DEBUG",
+  "message": "Processing 1 file changes",
+  "module": "logger",
+  "function": "debug",
+  "line_number": 362,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 19012,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:15:57.119993",
+  "level": "INFO",
+  "message": "Starting auto-commit for 1 changed files",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 19012,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:15:59.393448",
+  "level": "ERROR",
+  "message": "Failed to add files to staging",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 19012,
+  "context": null,
+  "exception": "Traceback (most recent call last):\n  File \"/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py\", line 120, in add_files\n    self.repo.git.add(A=True)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1003, in <lambda>\n    return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1616, in _call_process\n    return self.execute(call, **exec_kwargs)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1406, in execute\n    raise GitCommandError(redacted_command, status, stderr_value, stdout_value)\ngit.exc.GitCommandError: Cmd('git') failed due to: exit code(128)\n  cmdline: git add -A\n  stderr: 'error: '.autocommit-pro/' does not have a commit checked out\nfatal: adding files failed'\n",
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:15:59.402163",
+  "level": "ERROR",
+  "message": "Auto-commit failed: Failed to add files: Cmd('git') failed due to: exit code(128)\n  cmdline: git add -A\n  stderr: 'error: '.autocommit-pro/' does not have a commit checked out\nfatal: adding files failed'",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 19012,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:16:03.128300",
+  "level": "DEBUG",
+  "message": "Processing 1 file changes",
+  "module": "logger",
+  "function": "debug",
+  "line_number": 362,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 19012,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:16:03.135214",
+  "level": "INFO",
+  "message": "Starting auto-commit for 2 changed files",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 19012,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:16:05.411494",
+  "level": "ERROR",
+  "message": "Failed to add files to staging",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 19012,
+  "context": null,
+  "exception": "Traceback (most recent call last):\n  File \"/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py\", line 120, in add_files\n    self.repo.git.add(A=True)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1003, in <lambda>\n    return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1616, in _call_process\n    return self.execute(call, **exec_kwargs)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1406, in execute\n    raise GitCommandError(redacted_command, status, stderr_value, stdout_value)\ngit.exc.GitCommandError: Cmd('git') failed due to: exit code(128)\n  cmdline: git add -A\n  stderr: 'error: '.autocommit-pro/' does not have a commit checked out\nfatal: adding files failed'\n",
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:16:05.420128",
+  "level": "ERROR",
+  "message": "Auto-commit failed: Failed to add files: Cmd('git') failed due to: exit code(128)\n  cmdline: git add -A\n  stderr: 'error: '.autocommit-pro/' does not have a commit checked out\nfatal: adding files failed'",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 19012,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:16:08.110981",
+  "level": "DEBUG",
+  "message": "Processing 4 file changes",
+  "module": "logger",
+  "function": "debug",
+  "line_number": 362,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 19012,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:16:08.114959",
+  "level": "INFO",
+  "message": "Starting auto-commit for 6 changed files",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 19012,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:16:10.024657",
+  "level": "ERROR",
+  "message": "Failed to add files to staging",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 19012,
+  "context": null,
+  "exception": "Traceback (most recent call last):\n  File \"/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py\", line 120, in add_files\n    self.repo.git.add(A=True)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1003, in <lambda>\n    return lambda *args, **kwargs: self._call_process(name, *args, **kwargs)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1616, in _call_process\n    return self.execute(call, **exec_kwargs)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1406, in execute\n    raise GitCommandError(redacted_command, status, stderr_value, stdout_value)\ngit.exc.GitCommandError: Cmd('git') failed due to: exit code(128)\n  cmdline: git add -A\n  stderr: 'error: '.autocommit-pro/' does not have a commit checked out\nfatal: adding files failed'\n",
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:16:10.033385",
+  "level": "ERROR",
+  "message": "Auto-commit failed: Failed to add files: Cmd('git') failed due to: exit code(128)\n  cmdline: git add -A\n  stderr: 'error: '.autocommit-pro/' does not have a commit checked out\nfatal: adding files failed'",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 19012,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:16:13.116256",
+  "level": "DEBUG",
+  "message": "Processing 1 file changes",
+  "module": "logger",
+  "function": "debug",
+  "line_number": 362,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 19012,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:16:13.120500",
+  "level": "INFO",
+  "message": "Starting auto-commit for 7 changed files",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 19012,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:16:14.565748",
+  "level": "INFO",
+  "message": "🛑 Stopping AutoGitManager...",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 19012,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:16:14.595882",
+  "level": "INFO",
+  "message": "Committing pending changes before shutdown...",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 19012,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:16:14.638870",
+  "level": "INFO",
+  "message": "Starting auto-commit for 7 changed files",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 19012,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:16:15.000115",
+  "level": "ERROR",
+  "message": "Failed to create commit",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 19012,
+  "context": null,
+  "exception": "Traceback (most recent call last):\n  File \"/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py\", line 142, in commit\n    if not self.repo.index.diff(\"HEAD\"):\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/index/base.py\", line 1517, in diff\n    other = self.repo.rev_parse(other)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py\", line 415, in rev_parse\n    obj = name_to_object(repo, rev)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py\", line 205, in name_to_object\n    return Object.new_from_sha(repo, hex_to_bin(hexsha))\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/objects/base.py\", line 149, in new_from_sha\n    oinfo = repo.odb.info(sha1)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/db.py\", line 41, in info\n    hexsha, typename, size = self._git.get_object_header(bin_to_hex(binsha))\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1696, in get_object_header\n    return self.__get_object_header(cmd, ref)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1679, in __get_object_header\n    cmd.stdin.flush()\nBrokenPipeError: [Errno 32] Broken pipe\n",
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:16:15.016976",
+  "level": "ERROR",
+  "message": "Auto-commit failed: Commit failed: [Errno 32] Broken pipe",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 19012,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:16:16.598619",
+  "level": "ERROR",
+  "message": "Failed to create commit",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "MainThread",
+  "process_id": 19012,
+  "context": null,
+  "exception": "Traceback (most recent call last):\n  File \"/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py\", line 142, in commit\n    if not self.repo.index.diff(\"HEAD\"):\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/index/base.py\", line 1517, in diff\n    other = self.repo.rev_parse(other)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py\", line 415, in rev_parse\n    obj = name_to_object(repo, rev)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py\", line 205, in name_to_object\n    return Object.new_from_sha(repo, hex_to_bin(hexsha))\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/objects/base.py\", line 149, in new_from_sha\n    oinfo = repo.odb.info(sha1)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/db.py\", line 41, in info\n    hexsha, typename, size = self._git.get_object_header(bin_to_hex(binsha))\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1696, in get_object_header\n    return self.__get_object_header(cmd, ref)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1679, in __get_object_header\n    cmd.stdin.flush()\nBrokenPipeError: [Errno 32] Broken pipe\n",
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:16:16.608881",
+  "level": "ERROR",
+  "message": "Auto-commit failed: Commit failed: [Errno 32] Broken pipe",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "MainThread",
+  "process_id": 19012,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:16:16.620675",
+  "level": "INFO",
+  "message": "Final push before shutdown...",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 19012,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:16:16.624379",
+  "level": "INFO",
+  "message": "Starting auto-push to remote repository",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 19012,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:16:16.698214",
+  "level": "ERROR",
+  "message": "Failed to get repository status",
+  "module": "logger",
+  "function": "error",
+  "line_number": 380,
+  "thread_id": "MainThread",
+  "process_id": 19012,
+  "context": null,
+  "exception": "Traceback (most recent call last):\n  File \"/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py\", line 85, in get_status\n    'staged_files': [item.a_path for item in self.repo.index.diff(\"HEAD\")],\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/index/base.py\", line 1517, in diff\n    other = self.repo.rev_parse(other)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py\", line 415, in rev_parse\n    obj = name_to_object(repo, rev)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py\", line 205, in name_to_object\n    return Object.new_from_sha(repo, hex_to_bin(hexsha))\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/objects/base.py\", line 149, in new_from_sha\n    oinfo = repo.odb.info(sha1)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/db.py\", line 41, in info\n    hexsha, typename, size = self._git.get_object_header(bin_to_hex(binsha))\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1696, in get_object_header\n    return self.__get_object_header(cmd, ref)\n  File \"/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py\", line 1679, in __get_object_header\n    cmd.stdin.flush()\nBrokenPipeError: [Errno 32] Broken pipe\n",
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:16:16.709770",
+  "level": "WARNING",
+  "message": "Auto-push failed: No commits to push",
+  "module": "logger",
+  "function": "warning",
+  "line_number": 374,
+  "thread_id": "MainThread",
+  "process_id": 19012,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:16:16.714614",
+  "level": "SUCCESS",
+  "message": "AutoGitManager stopped successfully!",
+  "module": "logger",
+  "function": "success",
+  "line_number": 370,
+  "thread_id": "MainThread",
+  "process_id": 19012,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}

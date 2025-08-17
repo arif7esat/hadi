@@ -1,0 +1,130 @@
+{
+  "timestamp": "2025-08-17T23:17:55.605499",
+  "level": "INFO",
+  "message": "Connected to git repository: /Users/arif/Desktop/auto_commit_programs/hadi",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 20040,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:17:55.610259",
+  "level": "INFO",
+  "message": "File monitoring callback registered",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 20040,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:17:55.612109",
+  "level": "INFO",
+  "message": "Scheduled tasks configured",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 20040,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:17:55.613612",
+  "level": "INFO",
+  "message": "AutoGitManager initialized for: /Users/arif/Desktop/auto_commit_programs/hadi",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 20040,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:17:55.615539",
+  "level": "INFO",
+  "message": "🚀 Starting AutoGitManager...",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 20040,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:17:57.548126",
+  "level": "INFO",
+  "message": "Repository status: Branch=main, Dirty=False",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 20040,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:17:57.553678",
+  "level": "INFO",
+  "message": "Scheduler thread started",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "MainThread",
+  "process_id": 20040,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:17:57.554967",
+  "level": "SUCCESS",
+  "message": "AutoGitManager started successfully!",
+  "module": "logger",
+  "function": "success",
+  "line_number": 370,
+  "thread_id": "MainThread",
+  "process_id": 20040,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:18:27.557464",
+  "level": "DEBUG",
+  "message": "Processing 9 file changes",
+  "module": "logger",
+  "function": "debug",
+  "line_number": 362,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 20040,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}
+{
+  "timestamp": "2025-08-17T23:18:27.562542",
+  "level": "INFO",
+  "message": "Starting auto-commit for 9 changed files",
+  "module": "logger",
+  "function": "info",
+  "line_number": 366,
+  "thread_id": "ThreadPoolExecutor-0_0",
+  "process_id": 20040,
+  "context": null,
+  "exception": null,
+  "performance_data": null
+}

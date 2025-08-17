@@ -1,0 +1,76 @@
+{
+  "system": {
+    "monitoring_interval": 5,
+    "max_commit_frequency": 5,
+    "auto_push_enabled": true,
+    "debug_mode": true
+  },
+  "git": {
+    "default_branch": "main",
+    "remote_name": "origin",
+    "auto_add_all": true,
+    "repository_path": "/Users/arif/Desktop/auto_commit_programs/hadi",
+    "ignore_patterns": [
+      "*.log",
+      "*.tmp",
+      "__pycache__/",
+      ".DS_Store",
+      "node_modules/",
+      ".vscode/",
+      ".idea/"
+    ]
+  },
+  "ai_commit": {
+    "enabled": true,
+    "provider": "gemini",
+    "model": "gemini-2.0-flash",
+    "api_key": "AIzaSyAIjDa7_qJkFrPqcERejGPRWRVOoQPj15U",
+    "max_tokens": 200,
+    "temperature": 0.3,
+    "languages": [
+      "tr",
+      "en"
+    ],
+    "preferred_language": "tr"
+  },
+  "monitoring": {
+    "directory": "/Users/arif/Desktop/auto_commit_programs/hadi",
+    "exclude_directories": [
+      ".git",
+      ".autocommit-pro",
+      "__pycache__",
+      "node_modules",
+      ".vscode",
+      ".idea",
+      "venv",
+      "env"
+    ],
+    "file_extensions": [
+      ".py",
+      ".js",
+      ".ts",
+      ".jsx",
+      ".tsx",
+      ".html",
+      ".css",
+      ".scss",
+      ".md",
+      ".txt",
+      ".json",
+      ".xml",
+      ".yaml",
+      ".yml",
+      ".sql",
+      ".php",
+      ".java",
+      ".cpp",
+      ".c",
+      ".h",
+      ".swift",
+      ".kt",
+      ".go",
+      ".rs",
+      ".rb"
+    ]
+  }
+}

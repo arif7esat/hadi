@@ -1,0 +1,10 @@
+[2025-08-17 23:17:55.605] INFO     [MainThread] logger:info:366 - Connected to git repository: /Users/arif/Desktop/auto_commit_programs/hadi
+[2025-08-17 23:17:55.610] INFO     [MainThread] logger:info:366 - File monitoring callback registered
+[2025-08-17 23:17:55.612] INFO     [MainThread] logger:info:366 - Scheduled tasks configured
+[2025-08-17 23:17:55.613] INFO     [MainThread] logger:info:366 - AutoGitManager initialized for: /Users/arif/Desktop/auto_commit_programs/hadi
+[2025-08-17 23:17:55.615] INFO     [MainThread] logger:info:366 - 🚀 Starting AutoGitManager...
+[2025-08-17 23:17:57.548] INFO     [MainThread] logger:info:366 - Repository status: Branch=main, Dirty=False
+[2025-08-17 23:17:57.553] INFO     [MainThread] logger:info:366 - Scheduler thread started
+[2025-08-17 23:17:57.554] SUCCESS  [MainThread] logger:success:370 - AutoGitManager started successfully!
+[2025-08-17 23:18:27.557] DEBUG    [ThreadPoolExecutor-0_0] logger:debug:362 - Processing 9 file changes
+[2025-08-17 23:18:27.562] INFO     [ThreadPoolExecutor-0_0] logger:info:366 - Starting auto-commit for 9 changed files
