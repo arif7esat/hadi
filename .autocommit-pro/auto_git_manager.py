@@ -232,6 +232,7 @@ class AutoGitManager:
         # Use monitoring directory from config for file monitoring
         monitoring_dir = self.config.get("monitoring", {}).get("directory", watch_directory)
         self.file_monitor = FileMonitor(config_path, monitoring_dir)
+        # Use the same config path for AI generator
         self.ai_generator = AICommitGenerator(config_path)
         
         # State management
