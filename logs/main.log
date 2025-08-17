@@ -72,3 +72,11 @@ BrokenPipeError: [Errno 32] Broken pipe
 [2025-08-17 23:21:56.413] SUCCESS  [MainThread] logger:success:370 - AutoGitManager started successfully!
 [2025-08-17 23:22:24.461] DEBUG    [ThreadPoolExecutor-0_0] logger:debug:362 - Processing 1 file changes
 [2025-08-17 23:22:24.465] INFO     [ThreadPoolExecutor-0_0] logger:info:366 - Starting auto-commit for 1 changed files
+[2025-08-17 23:22:24.869] INFO     [ThreadPoolExecutor-0_0] logger:info:366 - Added all files to staging area
+[2025-08-17 23:22:24.884] SUCCESS  [ThreadPoolExecutor-0_0] logger:success:370 - Created commit: 89cb122b - chore: Update project files (8 files)...
+[2025-08-17 23:22:24.888] SUCCESS  [ThreadPoolExecutor-0_0] logger:success:370 - Auto-commit successful: Commit created: 89cb122b
+[2025-08-17 23:22:24.892] INFO     [ThreadPoolExecutor-0_0] logger:info:366 - Starting auto-push to remote repository
+[2025-08-17 23:22:28.682] INFO     [ThreadPoolExecutor-0_0] logger:info:366 - Repository is up to date
+[2025-08-17 23:22:28.687] SUCCESS  [ThreadPoolExecutor-0_0] logger:success:370 - Auto-push successful: Repository up to date
+[2025-08-17 23:22:56.417] DEBUG    [ThreadPoolExecutor-0_0] logger:debug:362 - Processing 5 file changes
+[2025-08-17 23:22:56.422] INFO     [ThreadPoolExecutor-0_0] logger:info:366 - Starting auto-commit for 5 changed files
