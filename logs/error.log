@@ -1,0 +1,41 @@
+[2025-08-17 23:18:56.742] ERROR    [ThreadPoolExecutor-0_0] logger:error:380 - Failed to create commit
+Exception: Traceback (most recent call last):
+  File "/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py", line 142, in commit
+    if not self.repo.index.diff("HEAD"):
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/index/base.py", line 1517, in diff
+    other = self.repo.rev_parse(other)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py", line 415, in rev_parse
+    obj = name_to_object(repo, rev)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py", line 205, in name_to_object
+    return Object.new_from_sha(repo, hex_to_bin(hexsha))
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/objects/base.py", line 149, in new_from_sha
+    oinfo = repo.odb.info(sha1)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/db.py", line 41, in info
+    hexsha, typename, size = self._git.get_object_header(bin_to_hex(binsha))
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1696, in get_object_header
+    return self.__get_object_header(cmd, ref)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1679, in __get_object_header
+    cmd.stdin.flush()
+BrokenPipeError: [Errno 32] Broken pipe
+
+[2025-08-17 23:18:56.799] ERROR    [ThreadPoolExecutor-0_0] logger:error:380 - Auto-commit failed: Commit failed: [Errno 32] Broken pipe
+[2025-08-17 23:18:57.064] ERROR    [MainThread] logger:error:380 - Failed to get repository status
+Exception: Traceback (most recent call last):
+  File "/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py", line 85, in get_status
+    'staged_files': [item.a_path for item in self.repo.index.diff("HEAD")],
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/index/base.py", line 1517, in diff
+    other = self.repo.rev_parse(other)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py", line 415, in rev_parse
+    obj = name_to_object(repo, rev)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py", line 205, in name_to_object
+    return Object.new_from_sha(repo, hex_to_bin(hexsha))
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/objects/base.py", line 149, in new_from_sha
+    oinfo = repo.odb.info(sha1)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/db.py", line 41, in info
+    hexsha, typename, size = self._git.get_object_header(bin_to_hex(binsha))
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1696, in get_object_header
+    return self.__get_object_header(cmd, ref)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1679, in __get_object_header
+    cmd.stdin.flush()
+BrokenPipeError: [Errno 32] Broken pipe
+

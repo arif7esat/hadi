@@ -8,3 +8,67 @@
 [2025-08-17 23:17:57.554] SUCCESS  [MainThread] logger:success:370 - AutoGitManager started successfully!
 [2025-08-17 23:18:27.557] DEBUG    [ThreadPoolExecutor-0_0] logger:debug:362 - Processing 9 file changes
 [2025-08-17 23:18:27.562] INFO     [ThreadPoolExecutor-0_0] logger:info:366 - Starting auto-commit for 9 changed files
+[2025-08-17 23:18:27.827] INFO     [ThreadPoolExecutor-0_0] logger:info:366 - Added all files to staging area
+[2025-08-17 23:18:27.844] SUCCESS  [ThreadPoolExecutor-0_0] logger:success:370 - Created commit: 27796dbb - chore: Update project files (31 files)...
+[2025-08-17 23:18:27.848] SUCCESS  [ThreadPoolExecutor-0_0] logger:success:370 - Auto-commit successful: Commit created: 27796dbb
+[2025-08-17 23:18:27.852] INFO     [ThreadPoolExecutor-0_0] logger:info:366 - Starting auto-push to remote repository
+[2025-08-17 23:18:31.981] INFO     [ThreadPoolExecutor-0_0] logger:info:366 - Repository is up to date
+[2025-08-17 23:18:31.985] SUCCESS  [ThreadPoolExecutor-0_0] logger:success:370 - Auto-push successful: Repository up to date
+[2025-08-17 23:18:56.546] INFO     [MainThread] logger:info:366 - 🛑 Stopping AutoGitManager...
+[2025-08-17 23:18:56.554] DEBUG    [ThreadPoolExecutor-0_0] logger:debug:362 - Processing 3 file changes
+[2025-08-17 23:18:56.559] INFO     [ThreadPoolExecutor-0_0] logger:info:366 - Starting auto-commit for 3 changed files
+[2025-08-17 23:18:56.742] ERROR    [ThreadPoolExecutor-0_0] logger:error:380 - Failed to create commit
+Exception: Traceback (most recent call last):
+  File "/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py", line 142, in commit
+    if not self.repo.index.diff("HEAD"):
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/index/base.py", line 1517, in diff
+    other = self.repo.rev_parse(other)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py", line 415, in rev_parse
+    obj = name_to_object(repo, rev)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py", line 205, in name_to_object
+    return Object.new_from_sha(repo, hex_to_bin(hexsha))
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/objects/base.py", line 149, in new_from_sha
+    oinfo = repo.odb.info(sha1)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/db.py", line 41, in info
+    hexsha, typename, size = self._git.get_object_header(bin_to_hex(binsha))
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1696, in get_object_header
+    return self.__get_object_header(cmd, ref)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1679, in __get_object_header
+    cmd.stdin.flush()
+BrokenPipeError: [Errno 32] Broken pipe
+
+[2025-08-17 23:18:56.799] ERROR    [ThreadPoolExecutor-0_0] logger:error:380 - Auto-commit failed: Commit failed: [Errno 32] Broken pipe
+[2025-08-17 23:18:56.958] INFO     [MainThread] logger:info:366 - Final push before shutdown...
+[2025-08-17 23:18:56.962] INFO     [MainThread] logger:info:366 - Starting auto-push to remote repository
+[2025-08-17 23:18:57.064] ERROR    [MainThread] logger:error:380 - Failed to get repository status
+Exception: Traceback (most recent call last):
+  File "/Users/arif/Desktop/auto_commit_programs/hadi/.autocommit-pro/auto_git_manager.py", line 85, in get_status
+    'staged_files': [item.a_path for item in self.repo.index.diff("HEAD")],
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/index/base.py", line 1517, in diff
+    other = self.repo.rev_parse(other)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py", line 415, in rev_parse
+    obj = name_to_object(repo, rev)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/repo/fun.py", line 205, in name_to_object
+    return Object.new_from_sha(repo, hex_to_bin(hexsha))
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/objects/base.py", line 149, in new_from_sha
+    oinfo = repo.odb.info(sha1)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/db.py", line 41, in info
+    hexsha, typename, size = self._git.get_object_header(bin_to_hex(binsha))
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1696, in get_object_header
+    return self.__get_object_header(cmd, ref)
+  File "/Users/arif/anaconda3/lib/python3.10/site-packages/git/cmd.py", line 1679, in __get_object_header
+    cmd.stdin.flush()
+BrokenPipeError: [Errno 32] Broken pipe
+
+[2025-08-17 23:18:57.087] WARNING  [MainThread] logger:warning:374 - Auto-push failed: No commits to push
+[2025-08-17 23:18:57.093] SUCCESS  [MainThread] logger:success:370 - AutoGitManager stopped successfully!
+[2025-08-17 23:21:54.390] INFO     [MainThread] logger:info:366 - Connected to git repository: /Users/arif/Desktop/auto_commit_programs/hadi
+[2025-08-17 23:21:54.393] INFO     [MainThread] logger:info:366 - File monitoring callback registered
+[2025-08-17 23:21:54.395] INFO     [MainThread] logger:info:366 - Scheduled tasks configured
+[2025-08-17 23:21:54.397] INFO     [MainThread] logger:info:366 - AutoGitManager initialized for: /Users/arif/Desktop/auto_commit_programs/hadi
+[2025-08-17 23:21:54.398] INFO     [MainThread] logger:info:366 - 🚀 Starting AutoGitManager...
+[2025-08-17 23:21:56.329] INFO     [MainThread] logger:info:366 - Repository status: Branch=main, Dirty=True
+[2025-08-17 23:21:56.411] INFO     [MainThread] logger:info:366 - Scheduler thread started
+[2025-08-17 23:21:56.413] SUCCESS  [MainThread] logger:success:370 - AutoGitManager started successfully!
+[2025-08-17 23:22:24.461] DEBUG    [ThreadPoolExecutor-0_0] logger:debug:362 - Processing 1 file changes
+[2025-08-17 23:22:24.465] INFO     [ThreadPoolExecutor-0_0] logger:info:366 - Starting auto-commit for 1 changed files
